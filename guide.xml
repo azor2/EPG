@@ -1,0 +1,1762 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP1">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP2">
+    <display-name lang="pt">RTP2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTÍCIAS">
+    <display-name lang="pt">SIC NOTICIAS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-noticias.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-3.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cmtv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-radical.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">SIC MULHER</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-mulher.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV GLOBO">
+    <display-name lang="pt">TV GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO PREMIUM">
+    <display-name lang="pt">GLOBO PREMIUM</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20181110002900 +0000" stop="20181110011200 +0000" channel="RTP1">
+    <title lang="pt">Aqui Tão Longe</title>
+    <desc lang="pt">Martim é alvejado na pensão, mas consegue defender-se, assassinando o adversário. Enquanto isso, as autoridades continuam a procurá-lo em várias cidades do país. Martim procura a mãe para o ajudar a remover a bala que tem na perna(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+  </programme>
+  <programme start="20181110011200 +0000" stop="20181110014400 +0000" channel="RTP1">
+    <title lang="pt">Amor a Quanto Obrigas</title>
+    <desc lang="pt">Rob encontra um recibo de pílula do dia seguinte e têm muitas perguntas para colocar a Sharon, que não se consegue lembrar do que fez e tenta esquivar-se ao questionário. Entretanto Sharon vai ter com Nico para perceber o que se passou e descobre a verdade(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20181110014400 +0000" stop="20181110025900 +0000" channel="RTP1">
+    <title lang="pt">Samuel Úria</title>
+    <sub-title lang="pt">O Grande Medo do Pequeno Mundo. O Grande Medo do Pequeno Mundo</sub-title>
+    <desc lang="pt">Com parte da obra prestes a ser reeditada em vinil, oportunidade agora para conhecer melhor a música de Samuel Úria. "O Grande Medo do Pequeno Mundo", álbum de 2013, é aqui apresentado em palco e revela muitas das subtilezas pop deste cantautor dos dias de hoje(n)</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110025900 +0000" stop="20181110032900 +0000" channel="RTP1">
+    <title lang="pt">Lusa Music Box</title>
+    <desc lang="pt">Programa de música em português através de pequenas entrevistas de oito a nove minutos aos artistas que fazem música pelo mundo inteiro, videoclips e ligações via skype(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.39.</episode-num>
+  </programme>
+  <programme start="20181110032900 +0000" stop="20181110054400 +0000" channel="RTP1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110054400 +0000" stop="20181110063400 +0000" channel="RTP1">
+    <title lang="pt">Viva a Música</title>
+    <desc lang="pt">Menina ainda, Teresinha Landeiro encontrou-se com fado para uma relação que se iria manter e ganhar espaço. O fado tradicional encanta-a e o seu disco de estreia, de título "Namoro", reflete isso mesmo, através de um conjunto de fados que, em grande parte, escreveu(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+  </programme>
+  <programme start="20181110063400 +0000" stop="20181110064500 +0000" channel="RTP1">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">As divertidas aventuras da família Bochecha e do seu inseparável cão, o Chispa(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+  </programme>
+  <programme start="20181110064500 +0000" stop="20181110065200 +0000" channel="RTP1">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Depoimentos T.1 Ep.21. Depoimentos</sub-title>
+    <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede UNESCO, dão o seu testemunho sobre a Gentileza(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20181110065200 +0000" stop="20181110065900 +0000" channel="RTP1">
+    <title lang="pt">Paula</title>
+    <desc lang="pt">Vem viver as aventuras de Punky, a sua família e seus amigos!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20181110065900 +0000" stop="20181110071000 +0000" channel="RTP1">
+    <title lang="pt">Jelly Jamm</title>
+    <desc lang="pt">Jelly Jamm celebra a música, a diversão e a amizade. Bello e os seus amigos vivem divertidas aventuras à medida que aprendem a viver em harmonia no mágico planeta Jammbo, a origem da música no Universo(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20181110071000 +0000" stop="20181110072600 +0000" channel="RTP1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">Espaço infantil, que traz os desenhos animados e as séries mais divertidas!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">19.57.</episode-num>
+  </programme>
+  <programme start="20181110072600 +0000" stop="20181110074000 +0000" channel="RTP1">
+    <title lang="pt">Lulu Cambalhota</title>
+    <desc lang="pt">As aventuras da tartaruga Lulu e dos seus amigos: a lebre, a doninha, o texugo, as corujas, o ouriço, o professor rouxinol, o ganso e o castor(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20181110074000 +0000" stop="20181110075200 +0000" channel="RTP1">
+    <title lang="pt">Gawayn</title>
+    <desc lang="pt">Na cidade mística de Camelot, William é um otimista cavaleiro dedicado ao seu mentor, o cavaleiro de armadura reluzente Sir Roderick. Mas quando o malvado Duque de Amaraxos encolhe a Princesa Gwendolina e assume o reino. William começa uma jornada com seus amigos para desfazer a terrível maldição..(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.35.</episode-num>
+  </programme>
+  <programme start="20181110075200 +0000" stop="20181110080000 +0000" channel="RTP1">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Depoimentos T.1 Ep.22. Depoimentos</sub-title>
+    <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede UNESCO, dão o seu testemunho sobre a Gentileza(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+  </programme>
+  <programme start="20181110080000 +0000" stop="20181110095700 +0000" channel="RTP1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia nas manhãs do seu fim de semana(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110095700 +0000" stop="20181110110400 +0000" channel="RTP1">
+    <title lang="pt">Uma Mesa Portuguesa... Com Certeza</title>
+    <desc lang="pt">Do Bombarral para o Soho, a gastronomia portuguesa instalou-se no Pão! O primeiro restaurante português de Manhattan faz frente ao esperado desconhecimento dos nova-iorquinos acerca das especialidades lusitanas. Com 17 anos, o restaurante pede emprestada a irreverência do seu autor, Jorge Neves(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20181110110400 +0000" stop="20181110130000 +0000" channel="RTP1">
+    <title lang="pt">Aqui Portugal</title>
+    <desc lang="pt">Aqui mostramos Portugal! Ligue-se ao melhor do nosso país na sua RTP! Em direto dos estúdios do Porto ou de qualquer ponto de Portugal, para todo o mundo português, fazemos uma viagem pela realidade de ser-se português. Pelas vozes e sabores de Portugal!(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">5.38.</episode-num>
+  </programme>
+  <programme start="20181110130000 +0000" stop="20181110141000 +0000" channel="RTP1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13h, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Com o Jornal da Tarde, esteja bem informado sobre o que acontece no país e no mundo!(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110141000 +0000" stop="20181110143600 +0000" channel="RTP1">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade do Provedor do Telespectador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespetadores em cada semana(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">6.36.</episode-num>
+  </programme>
+  <programme start="20181110143600 +0000" stop="20181110195900 +0000" channel="RTP1">
+    <title lang="pt">Aqui Portugal</title>
+    <desc lang="pt">Aqui mostramos Portugal! Ligue-se ao melhor do nosso país na sua RTP! Em direto dos estúdios do Porto ou de qualquer ponto de Portugal, para todo o mundo português, fazemos uma viagem pela realidade de ser-se português. Pelas vozes e sabores de Portugal!(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">5.38.</episode-num>
+  </programme>
+  <programme start="20181110195900 +0000" stop="20181110210000 +0000" channel="RTP1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110210000 +0000" stop="20181110215300 +0000" channel="RTP1">
+    <title lang="pt">Soldado Milhões</title>
+    <desc lang="pt">Aníbal Augusto Milhais é um soldado português da Primeira Guerra Mundial. Na Batalha de La Lys, contrariando ordens superiores, enfrenta sozinho sucessivas ofensivas alemãs de maneira a garantir a retirada dos companheiros(n)</desc>
+    <category lang="pt">filmes</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20181110215300 +0000" stop="20181110224500 +0000" channel="RTP1">
+    <title lang="pt">Donos Disto Tudo</title>
+    <desc lang="pt">Programa de rábulas variadas, com artistas de rir a valer. Um grupo de cinco comediantes reúne-se todas as semanas para recriar e parodiar os principais temas da atualidade, com a ajuda de convidados especiais, num programa de sketches e momentos de stand up(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">3.31.</episode-num>
+  </programme>
+  <programme start="20181110224500 +0000" stop="20181110233800 +0000" channel="RTP1">
+    <title lang="pt">Excursões Air Lino</title>
+    <desc lang="pt">O ambiente místico de Sintra conspira com a recém-chegada Celeste para a realização de uma sessão de yoga e meditação. Lino encontra o seu verdadeiro eu interior, ainda mais insuportável do que o exterior(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20181110233800 +0000" stop="20181111011200 +0000" channel="RTP1">
+    <title lang="pt">Gotham</title>
+    <desc lang="pt">O hipnotizador, Jervis Tetch, também conhecido como Mad Hatter chega a Gotham para procurar a irmã, Alice, e contrata Gonzalez para ajudar a encontrá-la. Entretanto, Penguin decide concorrer à presidência e o sósia de Bruce começa a ocupar o seu lugar, causando confusão na cidade(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20181110011500 +0000" stop="20181110020100 +0000" channel="RTP2">
+    <title lang="pt">Gomorra</title>
+    <desc lang="pt">Com o padrinho Don Pietro assassinado, há um vazio a ser preenchido no submundo de Nápoles. O filho Genny assume o controlo, aproveitando a oportunidade para saldar contas antigas. Os sobreviventes das facções restantes sofreram perdas financeiras drásticas e estabeleceram a paz(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20181110020100 +0000" stop="20181110030600 +0000" channel="RTP2">
+    <title lang="pt">Sociedade Civil</title>
+    <desc lang="pt">5 dias por semana, 5 temas de interesse com apresentação de Luís de Castro(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">13.150.</episode-num>
+  </programme>
+  <programme start="20181110030600 +0000" stop="20181110041700 +0000" channel="RTP2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Programa que resulta da parceria entre a RTP e a Euronews. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem das notícias. As reportagens abrangem temas de interesse internacional, nacional, desportivo, e cultural(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110041700 +0000" stop="20181110050300 +0000" channel="RTP2">
+    <title lang="pt">Portugueses pelo Mundo</title>
+    <desc lang="pt">Em Pequim, o gestor Nuno Batista fala da língua chinesa, Renato Roldão, consultor, mostra a Grande Muralha da China e Vera Penêda, jornalista, o "art distrit". Com Ricardo Bizarro, chefe de cozinha, vamos a uma luta de grilos e com Sofia David em um passeio de riquexó(n)</desc>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20181110050300 +0000" stop="20181110055000 +0000" channel="RTP2">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <desc lang="pt">Gabriel e Pedro procuram uma bola de futebol no campo da aldeia. Eles discutem pois Pedro acha que Gabriel chutou a bola de propósito para os arbustos. Gabriel encontra a bola e repara em algo brilhante no meio dos arbustos. Desenterra uma caixa, e lá dentro está um papel velho(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20181110055000 +0000" stop="20181110063200 +0000" channel="RTP2">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Rodrigo surpreende Luísa e assume o filho que ela espera, pedindo desculpa por não o ter feito assim que soube que o bebé era seu. Luísa fica agradada com a atitude do ex-marido, embora desiludida por perceber que ele apenas quer assumir a paternidade da criança(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.178.</episode-num>
+  </programme>
+  <programme start="20181110063200 +0000" stop="20181110070000 +0000" channel="RTP2">
+    <title lang="pt">Repórter África</title>
+    <sub-title lang="pt">2ª Ed.... 2ª Edição</sub-title>
+    <desc lang="pt">Noticiário diário com a atualidade do continente africano(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110070000 +0000" stop="20181110080200 +0000" channel="RTP2">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Programa que resulta da parceria entre a RTP e a Euronews. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem das notícias. As reportagens abrangem temas de interesse internacional, nacional, desportivo, e cultural(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110080200 +0000" stop="20181110081800 +0000" channel="RTP2">
+    <title lang="pt">Vicky</title>
+    <desc lang="pt">Vicky é um menino que, apesar do seu tamanho diminuto e natureza sensível, é engenhoso e extremamente astuto!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+  </programme>
+  <programme start="20181110081800 +0000" stop="20181110082500 +0000" channel="RTP2">
+    <title lang="pt">Bing</title>
+    <desc lang="pt">Bing Bunny é uma série baseada nos livros infantis do autor e ilustrador Ted Dewan. Celebra as realidades, a aprendizagem e a aventura de ser uma criança do pré-escolar quando a vida está repleta de dramas quotidianos, tanto para as crianças como para os adultos(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.62.</episode-num>
+  </programme>
+  <programme start="20181110082500 +0000" stop="20181110084400 +0000" channel="RTP2">
+    <title lang="pt">Waybuloo</title>
+    <desc lang="pt">Bem-vindo à terra de Nara, o lar dos Piplings e porta de entrada para Waybuloo! Waybuloo é uma exploração única de emoções e relacionamentos. É uma filosofia de vida feliz com temas inspiradores de felicidade e harmonia(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+  </programme>
+  <programme start="20181110084400 +0000" stop="20181110085000 +0000" channel="RTP2">
+    <title lang="pt">Cleo</title>
+    <desc lang="pt">Olá chamo-me Cleo e sou uma cadela muito curiosa e faço muitas asneiras. Quando crescer quero ser como a minha dona, mas ainda me falta muito. Adoro o seu sorriso colorido!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+  </programme>
+  <programme start="20181110085000 +0000" stop="20181110085800 +0000" channel="RTP2">
+    <title lang="pt">Kiwi</title>
+    <desc lang="pt">Vamos aprender Inglês com Twiki e Twini! Cada episódio será uma aventura para descobrir novas palavras e novos sons(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+  </programme>
+  <programme start="20181110085800 +0000" stop="20181110090300 +0000" channel="RTP2">
+    <title lang="pt">Kiwi</title>
+    <desc lang="pt">Vamos aprender Inglês com Twiki e Twini! Cada episódio será uma aventura para descobrir novas palavras e novos sons(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20181110090300 +0000" stop="20181110090800 +0000" channel="RTP2">
+    <title lang="pt">Rita e o Não Sei Quê</title>
+    <desc lang="pt">Rita gosta de se vestir com roupas da mãe, correndo por toda parte. Não Sei Quê gosta de mastigar objetos, dormir e fazer batota a jogar damas. Eles são os melhores amigos do mundo! Uma adaptação para televisão dos livros de Jean-Philippe Arrou and Olivier Tallec(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20181110090800 +0000" stop="20181110091400 +0000" channel="RTP2">
+    <title lang="pt">Rita e o Não Sei Quê</title>
+    <desc lang="pt">Rita gosta de se vestir com roupas da mãe, correndo por toda parte. Não Sei Quê gosta de mastigar objetos, dormir e fazer batota a jogar damas. Eles são os melhores amigos do mundo! Uma adaptação para televisão dos livros de Jean-Philippe Arrou and Olivier Tallec(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+  </programme>
+  <programme start="20181110091400 +0000" stop="20181110092100 +0000" channel="RTP2">
+    <title lang="pt">Manon</title>
+    <desc lang="pt">Vem conhecer Manon, a pequena rainha dos animais que vive divertidas e poéticas aventuras com os seus numerosos companheiros: gatos, cães, pássaros, coelhos, patos e tantos outros animais(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+  </programme>
+  <programme start="20181110092100 +0000" stop="20181110093500 +0000" channel="RTP2">
+    <title lang="pt">A Princesinha</title>
+    <desc lang="pt">A Princesinha é uma menina muito curiosa, espontânea e também muito caprichosa. Quando o mundo não é como ela gosta... zanga-se!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20181110093500 +0000" stop="20181110094200 +0000" channel="RTP2">
+    <title lang="pt">Pororo, o Pequeno Pinguim</title>
+    <desc lang="pt">Longe, bem longe, numa floresta coberta de neve e gelo existe uma pequena aldeia habitada por pequenos animais. Nessa aldeia vive o pequeno pinguim Pororo e os seus amigos. Todos os dias são diferentes nessa pequena aldeia. Uma série para os meninos do pré-escolar(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+  </programme>
+  <programme start="20181110094200 +0000" stop="20181110095600 +0000" channel="RTP2">
+    <title lang="pt">Sally Bollywood</title>
+    <desc lang="pt">Sally admira muito o seu pai, Harry Bollywood, um brilhante detetive. Com a ajuda do melhor amigo, Sally cria um pequeno departamento na agência do pai que é dirigido apenas às crianças. Problemas com amigos? Animais desaparecidos? Sally pode ajudar-vos. Resultados garantidos em 24 horas!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.40.</episode-num>
+  </programme>
+  <programme start="20181110095600 +0000" stop="20181110101100 +0000" channel="RTP2">
+    <title lang="pt">Gawayn</title>
+    <desc lang="pt">Na cidade mística de Camelot, William é um otimista cavaleiro dedicado ao seu mentor, o cavaleiro de armadura reluzente Sir Roderick. Mas quando o malvado Duque de Amaraxos encolhe a Princesa Gwendolina e assume o reino. William começa uma jornada com seus amigos para desfazer a terrível maldição..(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20181110101100 +0000" stop="20181110102200 +0000" channel="RTP2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+    <desc lang="pt">Em Dull-on-Sea, a vida fica virada de cabeça para baixo com aparecimento de uma família de piratas! Para Matilda, a chegada destes novos vizinhos é um sonho tornado realidade. Com Jim Lad, o filho de Jolley-Rogers, não há hipótese de ficar aborrecida!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+  </programme>
+  <programme start="20181110102200 +0000" stop="20181110103400 +0000" channel="RTP2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+    <desc lang="pt">Em Dull-on-Sea, a vida fica virada de cabeça para baixo com aparecimento de uma família de piratas! Para Matilda, a chegada destes novos vizinhos é um sonho tornado realidade. Com Jim Lad, o filho de Jolley-Rogers, não há hipótese de ficar aborrecida!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20181110103400 +0000" stop="20181110104800 +0000" channel="RTP2">
+    <title lang="pt">Scream Street</title>
+    <desc lang="pt">Uma série cheia de humor, assustadora e horripilante que conta as aventuras de Luke Watson, um adolescente perfeitamente normal... fora o facto de ter o gene do lobisomem!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20181110104800 +0000" stop="20181110105900 +0000" channel="RTP2">
+    <title lang="pt">Scream Street</title>
+    <desc lang="pt">Uma série cheia de humor, assustadora e horripilante que conta as aventuras de Luke Watson, um adolescente perfeitamente normal... fora o facto de ter o gene do lobisomem!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20181110105900 +0000" stop="20181110112100 +0000" channel="RTP2">
+    <title lang="pt">Casa</title>
+    <desc lang="pt">A dupla dinâmica Tip e Oh estão de volta com novas e divertidas aventuras intergalácticas!(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20181110112100 +0000" stop="20181110113300 +0000" channel="RTP2">
+    <title lang="pt">As Regras do Ângelo</title>
+    <desc lang="pt">Ângelo tem 12 anos e o que mais gosta de fazer é ditar as suas próprias regras e não obedecer a mais ninguém. Cheio de artimanhas, está sempre a pensar numa maneira de se safar de uma situação. Quanto maior é o desafio, mais elaborado é o plano. E são muitos os planos que saem daquele cérebro(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+  </programme>
+  <programme start="20181110113300 +0000" stop="20181110114100 +0000" channel="RTP2">
+    <title lang="pt">As Regras do Ângelo</title>
+    <desc lang="pt">Ângelo tem 12 anos e o que mais gosta de fazer é ditar as suas próprias regras e não obedecer a mais ninguém. Cheio de artimanhas, está sempre a pensar numa maneira de se safar de uma situação. Quanto maior é o desafio, mais elaborado é o plano. E são muitos os planos que saem daquele cérebro(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.23.</episode-num>
+  </programme>
+  <programme start="20181110114100 +0000" stop="20181110114800 +0000" channel="RTP2">
+    <title lang="pt">O Oásis de Óscar</title>
+    <desc lang="pt">As aventuras de Óscar e o trio Sweety, Harchi e Burke cujos caminhos estão perpetuamente a cruzar-se. Perdidos, no meio de um deserto árido, todos estão a tentar sobreviver e acima de tudo não morrer de tédio(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+  </programme>
+  <programme start="20181110114800 +0000" stop="20181110120400 +0000" channel="RTP2">
+    <title lang="pt">Descobrir a Ciência</title>
+    <desc lang="pt">Programa de experiências científicas liderado pelos enigmáticos "Rangers Experiment". Apresentado com imagens elegantes e experiências únicas e de grande escala, “Descobrir a Ciência” irá certamente capturar a atenção de todos(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20181110120400 +0000" stop="20181110121500 +0000" channel="RTP2">
+    <title lang="pt">O Carlos Escolhe</title>
+    <desc lang="pt">Para Carlos a vida é toda sobre fazer escolhas. Enquanto a maioria dos miúdos têm escolhas muito limitadas, este menino de 10 anos começa a controlar o seu destino e a escolher as suas próprias aventuras. E faz as suas escolhas sem que qualquer adulto que lhe diga o que fazer(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20181110121500 +0000" stop="20181110122900 +0000" channel="RTP2">
+    <title lang="pt">O Carlos Escolhe</title>
+    <desc lang="pt">Para Carlos a vida é toda sobre fazer escolhas. Enquanto a maioria dos miúdos têm escolhas muito limitadas, este menino de 10 anos começa a controlar o seu destino e a escolher as suas próprias aventuras. E faz as suas escolhas sem que qualquer adulto que lhe diga o que fazer(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20181110122900 +0000" stop="20181110123400 +0000" channel="RTP2">
+    <title lang="pt">Movimento Gentil</title>
+    <sub-title lang="pt">Depoimentos T.1 Ep.20. Depoimentos</sub-title>
+    <desc lang="pt">Crianças, jovens e professores de várias escolas, da rede UNESCO, dão o seu testemunho sobre a Gentileza(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20181110123400 +0000" stop="20181110124600 +0000" channel="RTP2">
+    <title lang="pt">Tashi</title>
+    <desc lang="pt">Quando os pais de Jack decidem que ele irá viver com Tashi, o seu primo afastado, os dois meninos vivem uma série de aventuras numa região fantástica e longínqua, protegendo a vila de Tashi de criaturas e vilões(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+  </programme>
+  <programme start="20181110124600 +0000" stop="20181110130400 +0000" channel="RTP2">
+    <title lang="pt">Design Ah! Um Olhar Sobre o Design</title>
+    <desc lang="pt">Programa que mostra às crianças de uma maneira original e divertida como o design pode tornar a sua vida mais engraçada e criativa, existindo em tudo, até nos objetos e nas situações mais improváveis(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20181110130400 +0000" stop="20181110131000 +0000" channel="RTP2">
+    <title lang="pt">Wru</title>
+    <desc lang="pt">Alex e Tanya encontram-se no aeroporto e prometem compartilhar mutuamente as suas viagens através da internet. Alex e Tanya levam-nos a visitar os quatro cantos da mundo, numa incrível viagem à descoberta do mundo, por meio de vídeos, fotos, textos e smileys(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.59.</episode-num>
+  </programme>
+  <programme start="20181110131000 +0000" stop="20181110131900 +0000" channel="RTP2">
+    <title lang="pt">Wru</title>
+    <desc lang="pt">Alex e Tanya encontram-se no aeroporto e prometem compartilhar mutuamente as suas viagens através da internet. Alex e Tanya levam-nos a visitar os quatro cantos da mundo, numa incrível viagem à descoberta do mundo, por meio de vídeos, fotos, textos e smileys(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.60.</episode-num>
+  </programme>
+  <programme start="20181110131900 +0000" stop="20181110134500 +0000" channel="RTP2">
+    <title lang="pt">Vamos à Descoberta</title>
+    <desc lang="pt">Um magazine no qual são abordados diversos temas: a Terra, o universo, saúde, história e cultura ou tecnologia. A bordo do seu camião-laboratório, os 3 jornalistas percorrem locais incomuns para fornecer uma melhor compreensão do que nos rodeia, com explicações científicas acessíveis para todos(n)</desc>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20181110134500 +0000" stop="20181110141100 +0000" channel="RTP2">
+    <title lang="pt">Vamos à Descoberta</title>
+    <desc lang="pt">Um magazine no qual são abordados diversos temas: a Terra, o universo, saúde, história e cultura ou tecnologia. A bordo do seu camião-laboratório, os 3 jornalistas percorrem locais incomuns para fornecer uma melhor compreensão do que nos rodeia, com explicações científicas acessíveis para todos(n)</desc>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20181110141100 +0000" stop="20181110143200 +0000" channel="RTP2">
+    <title lang="pt">Cuidado com o Batman</title>
+    <desc lang="pt">Batman, Katana e o ex-agente secreto e mordomo Alfred Pennyworth formam uma poderosa equipa de luta contra o crime e enfrentam o submundo do crime liderado por Anarky, Ra’al Ghul, Professor Pyg, Magpie, Mr. Toad, Rei Kraken, entre outros. De todos, Anarky é o principal inimigo de Batman(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20181110143200 +0000" stop="20181110150000 +0000" channel="RTP2">
+    <title lang="pt">Cuidado com o Batman</title>
+    <desc lang="pt">Batman, Katana e o ex-agente secreto e mordomo Alfred Pennyworth formam uma poderosa equipa de luta contra o crime e enfrentam o submundo do crime liderado por Anarky, Ra’al Ghul, Professor Pyg, Magpie, Mr. Toad, Rei Kraken, entre outros. De todos, Anarky é o principal inimigo de Batman(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20181110150000 +0000" stop="20181110170500 +0000" channel="RTP2">
+    <title lang="pt">Desporto 2</title>
+    <desc lang="pt">Bem-vindo ao programa das modalidades praticadas em Portugal e no estrangeiro(n)</desc>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">6.73.</episode-num>
+  </programme>
+  <programme start="20181110170500 +0000" stop="20181110172300 +0000" channel="RTP2">
+    <title lang="pt">What's Up – Olhar a Moda</title>
+    <desc lang="pt">«What's Up – Olhar a Moda» parte de um dos setores mais relevantes da economia portuguesa, o calçado, para explorar o universo da moda em Portugal. Acompanhe, passo a passo, os grandes eventos da moda, as histórias mais relevantes e os principais protagonistas da moda em Portugal(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">3.20.</episode-num>
+  </programme>
+  <programme start="20181110172300 +0000" stop="20181110175100 +0000" channel="RTP2">
+    <title lang="pt">Biosfera</title>
+    <desc lang="pt">Cenários climáticos futuros obrigam a repensar novos modelos de gestão sustentável do montado ibérico. Investigadores, governantes e proprietários agro-florestais trabalham em conjunto a adaptação de um dos ecossistemas mais importantes da região mediterrânica(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">15.35.</episode-num>
+  </programme>
+  <programme start="20181110175100 +0000" stop="20181110184300 +0000" channel="RTP2">
+    <title lang="pt">A Ciência da Maternidade</title>
+    <desc lang="pt">Ser mãe não é tarefa fácil. Podem surgir sentimentos de solidão, isolamento e dificuldades em amar os próprios filhos. Este documentário revela que a capacidade de criar os filhos foi desenvolvida ao longo da história evolutiva dos seres humanos e tem sido transmitida continuamente entre mães(n)</desc>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20181110184300 +0000" stop="20181110202800 +0000" channel="RTP2">
+    <title lang="pt">O Paraíso das Senhoras</title>
+    <desc lang="pt">Para Teresa é o último dia no Paraíso das Senhoras. A morte súbita do pai de Vittorio, no entanto, leva-a a tomar uma iniciativa que faz com que todo o armazém se sinta perto de Conti num momento tão terrível(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20181110202800 +0000" stop="20181110205800 +0000" channel="RTP2">
+    <title lang="pt">Os Fósseis de Santa Maria</title>
+    <sub-title lang="pt">Açores</sub-title>
+    <desc lang="pt">Os fósseis constituem o elemento diferenciador de Santa Maria relativamente às restantes ilhas dos Açores. Para além da fantástica riqueza e diversidade do património paleontológico de Santa Maria, são apresentados alguns projetos de investigação que terão impacto no turismo da ilha(n)</desc>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20181110205800 +0000" stop="20181110213000 +0000" channel="RTP2">
+    <title lang="pt">Eco-Lógica</title>
+    <desc lang="pt">Poluição, mudanças climáticas, enquanto alguns prevêem o Apocalipse, outros constroem o futuro inventando soluções para novos tipos de habitação. Como poderemos construir e respeitar ao mesmo tempo os princípios ecológicos e libertar-nos das normas? A resposta está na autoconstrução(n)</desc>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+  </programme>
+  <programme start="20181110213000 +0000" stop="20181110221600 +0000" channel="RTP2">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O «Jornal 2» contém as principais notícias da atualidade nacional e internacional. Os factos, a investigação, a leitura do país e da sua realidade política e social é feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">0.312.</episode-num>
+  </programme>
+  <programme start="20181110221600 +0000" stop="20181110232600 +0000" channel="RTP2">
+    <title lang="pt">A Minha Mãe Adorava a Dança</title>
+    <desc lang="pt">Brigitte Lefèvre teve uma carreira extraordinária e contribuiu para uma revolução da dança a nível mundial. Este documentário acompanha Brigitte Lefèvre ao longo de um ano. De Paris a Tóquio, descobrimos os bastidores da sua vida e da Ópera de Paris(n)</desc>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20181110232600 +0000" stop="20181111015200 +0000" channel="RTP2">
+    <title lang="pt">Meus Amigos</title>
+    <desc lang="pt">Um grupo de amigos, ex-colegas da Universidade, que participaram na revolta de estudantes em 1962 reencontram-se passados dez anos. Todos eles se sentem num beco sem saída, perderam os seus ideais e os seus sonhos(n)</desc>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20181110005500 +0000" stop="20181110015000 +0000" channel="SIC">
+    <title lang="pt">Mentes Criminosas</title>
+    <desc lang="pt">Quando um membro da UAC é detido no México, o grupo pede ajuda à Equipa de Resposta Internacional(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">11.12.</episode-num>
+  </programme>
+  <programme start="20181110015000 +0000" stop="20181110033500 +0000" channel="SIC">
+    <title lang="pt">Vamos Jogar</title>
+    <desc lang="pt">O “Vamos Jogar” é o programa ideal para quem gosta de resolver desafios e quebra-cabeças. Os espetadores são convidados a participar por telefone, e em direto, nos jogos apresentados. O objetivo é os concorrentes utilizarem toda a sua perícia para resolverem os desafios e ganharem prémios(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
+  </programme>
+  <programme start="20181110033500 +0000" stop="20181110042500 +0000" channel="SIC">
+    <title lang="pt">Investigação Criminal: New Orleans</title>
+    <desc lang="pt">Um caso torna-se pessoal para Dwayne Pride quando um corpo é identificado como um antigo membro de um gangue, que ele conhecia. Entretanto, Brody continua a sua procura pelo local perfeito para a sua casa(n)</desc>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20181110042500 +0000" stop="20181110060000 +0000" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias um espaço dedicado a vendas por televisão onde são feitas demonstrações dos produtos(n)</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110060000 +0000" stop="20181110063500 +0000" channel="SIC">
+    <title lang="pt">Etnias</title>
+    <desc lang="pt">Liliana Campos apresenta o programa destinado às comunidades imigrantes. O Etnias faz a divulgação de informações úteis para os estrangeiros que escolheram Portugal para viver e trabalhar, assim como de notícias sobre os seus países de origem(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">17.43.</episode-num>
+  </programme>
+  <programme start="20181110063500 +0000" stop="20181110065000 +0000" channel="SIC">
+    <title lang="pt">Alvin e os Esquilos</title>
+    <desc lang="pt">Com os seus irmãos, Theodore e Simon, e as melhores amigas, as Chipettes, Brittany, Jeanette e Eleanor, Alvin vai trazer-nos uma montanha-russa de peripécias, música e riso. Como será que o pai Dave vai conseguir controlar este bando peludo de esquilos cheios de energia?(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.50.</episode-num>
+  </programme>
+  <programme start="20181110065000 +0000" stop="20181110070500 +0000" channel="SIC">
+    <title lang="pt">Alvin e os Esquilos</title>
+    <desc lang="pt">Com os seus irmãos, Theodore e Simon, e as melhores amigas, as Chipettes, Brittany, Jeanette e Eleanor, Alvin vai trazer-nos uma montanha-russa de peripécias, música e riso. Como será que o pai Dave vai conseguir controlar este bando peludo de esquilos cheios de energia?(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">1.51.</episode-num>
+  </programme>
+  <programme start="20181110070500 +0000" stop="20181110071500 +0000" channel="SIC">
+    <title lang="pt">K Cena</title>
+    <desc lang="pt">O "K Cena!" reúne um conjunto de vídeos fofinhos, de fails, de grandes feitos, assente numa lógica e estética que recriam a forma como os mais novos partilham conteúdos entre si: através das redes sociais e dos dispositivos móveis(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
+  </programme>
+  <programme start="20181110071500 +0000" stop="20181110074000 +0000" channel="SIC">
+    <title lang="pt">Zak Storm</title>
+    <desc lang="pt">Zak é um miúdo aventureiro e obstinado que foi varrido para o Triângulo das Bermudas enquanto surfava. Lá dentro, Zak junta-se à espada mágica Calabrass que permite que ele se transforme num valente mas renegado herói para encarar os numerosos perigos dos únicos e diversos Sete Mares do Triângulo..(n)</desc>
+    <category lang="pt">infantil</category>
+  </programme>
+  <programme start="20181110074000 +0000" stop="20181110081500 +0000" channel="SIC">
+    <title lang="pt">Marvel's Spiderman</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110081500 +0000" stop="20181110082500 +0000" channel="SIC">
+    <title lang="pt">Power Rangers Super Ninja Steel</title>
+    <desc lang="pt">No ano de comemoração dos 25 anos da série, Madame Odious está de volta e em busca do Ninja Nexus Prisma com o objetivo de recuperar os seus poderes. Com a ajuda de novos amigos, os rangers agora tem a missão de proteger o Prisma e derrotar Odius para continuar mantendo a paz no mundo(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20181110082500 +0000" stop="20181110083500 +0000" channel="SIC">
+    <title lang="pt">Power Rangers Super Ninja Steel</title>
+    <desc lang="pt">No ano de comemoração dos 25 anos da série, Madame Odious está de volta e em busca do Ninja Nexus Prisma com o objetivo de recuperar os seus poderes. Com a ajuda de novos amigos, os rangers agora tem a missão de proteger o Prisma e derrotar Odius para continuar mantendo a paz no mundo(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20181110083500 +0000" stop="20181110090700 +0000" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <desc lang="pt">Esta adaptação da obra literária de Isabel Alçada e Ana Maria Magalhães conta as várias aventuras das gémeas Teresa e Luísa, e de Chico, Pedro, João e do cão Faial(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+  </programme>
+  <programme start="20181110090700 +0000" stop="20181110094000 +0000" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <desc lang="pt">Esta adaptação da obra literária de Isabel Alçada e Ana Maria Magalhães conta as várias aventuras das gémeas Teresa e Luísa, e de Chico, Pedro, João e do cão Faial(n)</desc>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+  </programme>
+  <programme start="20181110094000 +0000" stop="20181110101500 +0000" channel="SIC">
+    <title lang="pt">Bed &amp; Biscuit</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110101500 +0000" stop="20181110115500 +0000" channel="SIC">
+    <title lang="pt">Happy Feet 2</title>
+    <desc lang="pt">O pinguim sapateador mais carismático está de volta e agora é um pai de família(n)</desc>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20181110115500 +0000" stop="20181110125000 +0000" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
+    <desc lang="pt">Câmaras ocultas espreitam os hábitos mais privados dos animais. Conheça melhor o mundo em que vivemos com os extraordinários documentários da National Geographic, Explorer, BBC e muitos outros(n)</desc>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">0.63.</episode-num>
+  </programme>
+  <programme start="20181110125000 +0000" stop="20181110130000 +0000" channel="SIC">
+    <title lang="pt">Frescos à Prova</title>
+    <desc lang="pt">Em cada episódio o consultor agro-pecuário Engº. Miguel Serrão vai guiar-nos de Norte a Sul do País e dar a conhecer um conjunto de produtores, para trazer diariamente o que de melhor a natureza tem para oferecer. Nesta temporada o programa conta com um novo chef – Chakall(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20181110130000 +0000" stop="20181110140000 +0000" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">A informação SIC à hora do almoço(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110140000 +0000" stop="20181110150000 +0000" channel="SIC">
+    <title lang="pt">Alta Definição</title>
+    <desc lang="pt">Daniel Oliveira conduz uma entrevista, numa abordagem intimista. Gravado em Alta Definição, cada programa pretende ser um retrato biográfico do convidado, que é desafiado a apresentar-se sem maquilhagem, na sua mais pura essência(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.441.</episode-num>
+  </programme>
+  <programme start="20181110150000 +0000" stop="20181110154000 +0000" channel="SIC">
+    <title lang="pt">E-Especial</title>
+    <desc lang="pt">O programa que lhe mostra todos os segredos de bastidores dos programas, dos atores, dos convidados e de todas as caras da SIC. Apresentado por Sofia Cerveira e Ricardo Pereira(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.536.</episode-num>
+  </programme>
+  <programme start="20181110154000 +0000" stop="20181110174500 +0000" channel="SIC">
+    <title lang="pt">O Meu Primeiro Beijo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20181110174500 +0000" stop="20181110195700 +0000" channel="SIC">
+    <title lang="pt">Miss Detective 2: Armada e Fabulosa</title>
+    <desc lang="pt">Esta é a sequela de «Miss Detective», as "aventuras" de Gracie Hart (Sandra Bullock), a agente do FBI que desmantelou uma ameaça contra o concurso de Miss Estados Unidos disfarçada de concorrente e se tornou, de um dia para o outro, uma estrela dos "media"(n)</desc>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20181110195700 +0000" stop="20181110214000 +0000" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">O país e o mundo, todos os dias, às 20h00, na SIC(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110214000 +0000" stop="20181110224500 +0000" channel="SIC">
+    <title lang="pt">Alma e Coração</title>
+    <desc lang="pt">Benedita, que dá agora pelo nome de Diana, decide desaparecer e refugiar-se num circo itinerante. Mais tarde, regressa a "casa" e dá de caras com o passado que pensava ter deixado para trás..(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+  </programme>
+  <programme start="20181110224500 +0000" stop="20181110235500 +0000" channel="SIC">
+    <title lang="pt">Casados À Primeira Vista</title>
+    <sub-title lang="pt">A Semana. A Semana</sub-title>
+    <desc lang="pt">Cada um dos candidatos casará com um estranho. Não se conhecem, mas têm muito em comum. Para essa descoberta, basta estarem disponíveis para embarcar numa verdadeira relação, e para isso contarão com a ajuda dos especialistas que acompanharão toda a construção da relação(n)</desc>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20181110235500 +0000" stop="20181111005500 +0000" channel="SIC">
+    <title lang="pt">Segundo Sol</title>
+    <desc lang="pt">A carreira de um cantor fracassado alcança novas proporções quando ele é confundido com um morto e é persuadido a esconder-se, por pessoas que têm muito a lucrar com isso(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.64.</episode-num>
+  </programme>
+  <programme start="20181110024500 +0000" stop="20181110043000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Especial  De Desporto</title>
+    <desc lang="pt">Acompanhe nesta emissão de 'Especial  De Desporto' toda a informação atualizada sobre o mundo desportivo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11681204/M" />
+  </programme>
+  <programme start="20181110043000 +0000" stop="20181110045500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página</title>
+    <desc lang="pt">Revista de imprensa dos jornais diários, com reportagens sobre os principais temas abordados(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10462656/M" />
+    <episode-num system="onscreen">E225</episode-num>
+  </programme>
+  <programme start="20181110045500 +0000" stop="20181110051000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <desc lang="pt">Magazine exclusivo sobre temáticas do setor Imobiliário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11638258/M" />
+    <episode-num system="onscreen">S10 E44</episode-num>
+  </programme>
+  <programme start="20181110051000 +0000" stop="20181110051500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Golf Report</title>
+    <desc lang="pt">Espaço dedicado à informação sobre Golfe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11638257/M" />
+    <episode-num system="onscreen">S11 E44</episode-num>
+  </programme>
+  <programme start="20181110051500 +0000" stop="20181110052500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Volante</title>
+    <desc lang="pt">Magazine semanal com novidades do mundo automóvel. Informação centrada nas novas tecnologias e modelos que permitem maior eficiência energética, bem como as novas propostas de mobilidade sustentável(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11638266/M" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20181110052500 +0000" stop="20181110053500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz</title>
+    <desc lang="pt">Um espaço com todas as novidades sobre os principais eventos culturais em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/5885468/M" />
+    <episode-num system="onscreen">E223</episode-num>
+  </programme>
+  <programme start="20181110053500 +0000" stop="20181110060000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página</title>
+    <desc lang="pt">Revista de imprensa dos jornais diários, com reportagens sobre os principais temas abordados(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10462656/M" />
+    <episode-num system="onscreen">E225</episode-num>
+  </programme>
+  <programme start="20181110060000 +0000" stop="20181110063500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Vidas Suspensas</title>
+    <desc lang="pt">“Vidas Suspensas” é uma série documental, que retrata situações de pessoas e de famílias que, por questões quase sempre relacionadas com a justiça, têm a vida em suspenso durante anos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659529/M" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20181110063500 +0000" stop="20181110070000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeira Página</title>
+    <desc lang="pt">Revista de imprensa dos jornais diários, com reportagens sobre os principais temas abordados(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10462656/M" />
+    <episode-num system="onscreen">E225</episode-num>
+  </programme>
+  <programme start="20181110070000 +0000" stop="20181110071500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110071500 +0000" stop="20181110073000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz Fim De Semana</title>
+    <desc lang="pt">Um espaço com todas as novidades sobre os principais eventos culturais em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659531/M" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20181110073000 +0000" stop="20181110075000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110075000 +0000" stop="20181110080000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Golf Report</title>
+    <desc lang="pt">Espaço dedicado à informação sobre Golfe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659532/M" />
+    <episode-num system="onscreen">S11 E45</episode-num>
+  </programme>
+  <programme start="20181110080000 +0000" stop="20181110081500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110081500 +0000" stop="20181110083000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Contas Poupança</title>
+    <desc lang="pt">Em tempos de crise, o dinheiro ganha outro valor. Neste programa são apresentadas propostas para poupanças no orçamento familiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659533/M" />
+    <episode-num system="onscreen">S4 E24</episode-num>
+  </programme>
+  <programme start="20181110083000 +0000" stop="20181110085000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110085000 +0000" stop="20181110090000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Futuro Hoje</title>
+    <desc lang="pt">O programa mostra o que já existe com alguns vislumbres de futuro. Os jogos, as máquinas, os sites e as ideias que fazem o mundo moderno, pela visão do Editor de Novas Tecnologias, Lourenço Medeiros(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659534/M" />
+    <episode-num system="onscreen">S4 E31</episode-num>
+  </programme>
+  <programme start="20181110090000 +0000" stop="20181110091500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110091500 +0000" stop="20181110093000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <desc lang="pt">Magazine exclusivo sobre temáticas do setor Imobiliário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659535/M" />
+    <episode-num system="onscreen">S10 E45</episode-num>
+  </programme>
+  <programme start="20181110093000 +0000" stop="20181110094000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110094000 +0000" stop="20181110100000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Exame Informática</title>
+    <desc lang="pt">Um magazine informativo, numa adaptação para televisão dos conteúdos da revista Exame Informática. O programa conta com espaços alternados de reportagem e pivots em exterior(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659536/M" />
+    <episode-num system="onscreen">S6 E35</episode-num>
+  </programme>
+  <programme start="20181110100000 +0000" stop="20181110105000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659538/M" />
+  </programme>
+  <programme start="20181110105000 +0000" stop="20181110110000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Os Nossos Campeões</title>
+    <desc lang="pt">Os nossos campeões. Empresários, artistas, pessoas com projetos em diferentes áreas. Um retrato do que Portugal pode ser e do seu potencial(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11685034/M" />
+  </programme>
+  <programme start="20181110110000 +0000" stop="20181110113000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659544/M" />
+  </programme>
+  <programme start="20181110113000 +0000" stop="20181110114500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Boa Cama, Boa Mesa</title>
+    <desc lang="pt">Um programa sobre o prazer de viajar, conhecer, experimentar e sentir baseado na seleção dos melhores alojamentos e restaurantes de Portugal, elaborada pelo guia Boa Cama Boa Mesa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659539/M" />
+    <episode-num system="onscreen">S8 E8</episode-num>
+  </programme>
+  <programme start="20181110114500 +0000" stop="20181110130000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Do Meio Dia</title>
+    <desc lang="pt">Toda a atualidade nacional e internacional, incluindo as informações sobre o mundo do desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11685035/M" />
+  </programme>
+  <programme start="20181110130000 +0000" stop="20181110140000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">Toda a atualidade nacional e internacional, incluindo as informações sobre o mundo do desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659541/M" />
+  </programme>
+  <programme start="20181110140000 +0000" stop="20181110144000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Das 2</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659542/M" />
+  </programme>
+  <programme start="20181110144000 +0000" stop="20181110150000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Volante</title>
+    <desc lang="pt">Magazine semanal com novidades do mundo automóvel. Informação centrada nas novas tecnologias e modelos que permitem maior eficiência energética, bem como as novas propostas de mobilidade sustentável(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659543/M" />
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20181110150000 +0000" stop="20181110153500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659544/M" />
+  </programme>
+  <programme start="20181110153500 +0000" stop="20181110154500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Frescos À Prova</title>
+    <desc lang="pt">Pretende-se sensibilizar a população para a importância do consumo de frescos, valorizando o trabalho e a experiência dos parceiros produtores(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/9044623/M" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20181110154500 +0000" stop="20181110160000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz Fim De Semana</title>
+    <desc lang="pt">Um espaço com todas as novidades sobre os principais eventos culturais em Portugal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659531/M" />
+    <episode-num system="onscreen">E36</episode-num>
+  </programme>
+  <programme start="20181110160000 +0000" stop="20181110162000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659530/M" />
+  </programme>
+  <programme start="20181110162000 +0000" stop="20181110170000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">60 Minutos</title>
+    <desc lang="pt">A versão portuguesa do mais antigo programa da CBS, '60 Minutes', com reportagens, entrevistas e outras peças de informação sobre a atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659545/M" />
+    <episode-num system="onscreen">S9 E6</episode-num>
+  </programme>
+  <programme start="20181110170000 +0000" stop="20181110174000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659538/M" />
+  </programme>
+  <programme start="20181110174000 +0000" stop="20181110180000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Imagens De Marca</title>
+    <desc lang="pt">Num mercado onde a concorrência é cada vez mais feroz, torna-se essencial marcar a diferença. Conheça exemplos de sucesso, que se destacaram dos seus pares graças a estratégias únicas destinadas a seduzir um público cada vez mais exigente(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659546/M" />
+    <episode-num system="onscreen">S12 E44</episode-num>
+  </programme>
+  <programme start="20181110180000 +0000" stop="20181110184500 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659538/M" />
+  </programme>
+  <programme start="20181110184500 +0000" stop="20181110190000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Futuro Hoje</title>
+    <desc lang="pt">O programa mostra o que já existe com alguns vislumbres de futuro. Os jogos, as máquinas, os sites e as ideias que fazem o mundo moderno, pela visão do Editor de Novas Tecnologias, Lourenço Medeiros(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659534/M" />
+    <episode-num system="onscreen">S4 E31</episode-num>
+  </programme>
+  <programme start="20181110190000 +0000" stop="20181110195700 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Das 7</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659547/M" />
+  </programme>
+  <programme start="20181110195700 +0000" stop="20181110203000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Em simultâneo com a SIC, as notícias da atualidade nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11685036/M" />
+  </programme>
+  <programme start="20181110203000 +0000" stop="20181110210000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Vidas Suspensas</title>
+    <desc lang="pt">“Vidas Suspensas” é uma série documental, que retrata situações de pessoas e de famílias que, por questões quase sempre relacionadas com a justiça, têm a vida em suspenso durante anos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659529/M" />
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20181110210000 +0000" stop="20181110220000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <desc lang="pt">A informação sempre à hora certa com os temas da atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659537/M" />
+  </programme>
+  <programme start="20181110220000 +0000" stop="20181110235800 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal De Sábado</title>
+    <desc lang="pt">Toda a atualidade do dia, a nível nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659549/M" />
+  </programme>
+  <programme start="20181110235800 +0000" stop="20181111010000 +0000" channel="SIC NOTÍCIAS">
+    <title lang="pt">Eixo Do Mal</title>
+    <desc lang="pt">A atualidade política, social e cultural vista pelos olhos de Clara Ferreira Alves, Daniel Oliveira, Luís Pedro Nunes e Pedro Marques Lopes. Aurélio Gomes modera este debate semanal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11664296/M" />
+    <episode-num system="onscreen">S10 E41</episode-num>
+  </programme>
+  <programme start="20181110024000 +0000" stop="20181110033000 +0000" channel="RTP 3">
+    <title lang="pt">O Último Apaga a Luz</title>
+    <desc lang="pt">Quase a iniciar o fim de semana, Raquel Varela (historiadora), Joaquim Vieira (jornalista), Rodrigo Moita de Deus (cronista), Virgílio Castelo (ator/autor) e Pedro Vieira (humorista e escritor) analisam, a partir das suas experiências profissionais, a forma como as notícias têm sido tratadas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11671143/M" />
+  </programme>
+  <programme start="20181110033000 +0000" stop="20181110034500 +0000" channel="RTP 3">
+    <title lang="pt">Volta ao Mundo</title>
+    <desc lang="pt">Um programa de viagens em parceria com a Revista Volta ao Mundo. O escritor e cronista de viagens Luís Peixoto é o principal cicerone destes passeios à volta do mundo, que faz com tempo e conhecimento local, mostrando o que há de melhor para ver, passear, comer e conhecer. Gentes, cultura, gastronomia, paisagens de sonho e história(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659981/M" />
+  </programme>
+  <programme start="20181110034500 +0000" stop="20181110041500 +0000" channel="RTP 3">
+    <title lang="pt">Eixo Norte Sul</title>
+    <desc lang="pt">Um espaço de informação regional, com reportagens e entrevistas, apresentado por Dina Aguiar(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659968/M" />
+  </programme>
+  <programme start="20181110041500 +0000" stop="20181110044500 +0000" channel="RTP 3">
+    <title lang="pt">Linha da Frente</title>
+    <desc lang="pt">Linha da Frente é um dos espaços mais premiados e mais vistos da televisão portuguesa. Com coordenação da jornalista Mafalda Gameiro, todas as semanas uma realidade diferente(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659980/M" />
+  </programme>
+  <programme start="20181110044500 +0000" stop="20181110051500 +0000" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira</title>
+    <desc lang="pt">Para os espetadores da Região e da diáspora madeirense espalhada pelo mundo. O Telejornal da televisão mais próxima de si está no ar desde 1972 com uma informação de proximidade e a garantia de qualidade do serviço público(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659970/M" />
+  </programme>
+  <programme start="20181110051500 +0000" stop="20181110054500 +0000" channel="RTP 3">
+    <title lang="pt">Telejornal Açores</title>
+    <desc lang="pt">Todos os dias a RTP-Açores leva a todos os açorianos a atualização de toda a informação da região do país e do mundo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659971/M" />
+  </programme>
+  <programme start="20181110054500 +0000" stop="20181110061500 +0000" channel="RTP 3">
+    <title lang="pt">Repórter África</title>
+    <desc lang="pt">Noticiário diário com a atualidade do continente africano(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11671144/M" />
+  </programme>
+  <programme start="20181110061500 +0000" stop="20181110070000 +0000" channel="RTP 3">
+    <title lang="pt">A Essência</title>
+    <desc lang="pt">Programa com cerca de 15 minutos de duração sobre o Vinho e a Vinha portuguesa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674643/M" />
+  </programme>
+  <programme start="20181110070000 +0000" stop="20181110073000 +0000" channel="RTP 3">
+    <title lang="pt">Africa 7 Dias</title>
+    <desc lang="pt">A actualidade africana em revista. Ao fim-de-semana a actualidade africana passada em revista num programa de 30 minutos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674644/M" />
+  </programme>
+  <programme start="20181110073000 +0000" stop="20181110080000 +0000" channel="RTP 3">
+    <title lang="pt">Visita Guiada</title>
+    <desc lang="pt">Este é um programa que dá a conhecer o Património Cultural português. Em cada emissão, o programa elege uma peça-protagonista selecionada num arco temporal de cerca de mil anos e considerando todo o território nacional, ilhas incluídas. A peça-protagonista pode ser um pequeno cálice ou uma catedral, um conjunto de esculturas, uma pintura, um jardim botânico ou um complexo de arquitetura industrial. O que conta é a sua excepcionalidade. Os convi…(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659984/M" />
+  </programme>
+  <programme start="20181110080000 +0000" stop="20181110100000 +0000" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Um espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674645/M" />
+  </programme>
+  <programme start="20181110100000 +0000" stop="20181110103000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 10</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674646/M" />
+  </programme>
+  <programme start="20181110103000 +0000" stop="20181110110000 +0000" channel="RTP 3">
+    <title lang="pt">Todas As Palavras</title>
+    <desc lang="pt">Um programa sobre livros e seus autores. Ana Daniela Soares, Inês Fonseca Santos e Luís Caetano conversam com quem nos emociona através das palavras(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674647/M" />
+  </programme>
+  <programme start="20181110110000 +0000" stop="20181110111000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 11</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659976/M" />
+  </programme>
+  <programme start="20181110111000 +0000" stop="20181110120000 +0000" channel="RTP 3">
+    <title lang="pt">Mundo Sem Muros</title>
+    <desc lang="pt">Programa semanal sobre temas da atualidade com a presença de correspondentes da imprensa internacional em Lisboa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674648/M" />
+  </programme>
+  <programme start="20181110120000 +0000" stop="20181110125000 +0000" channel="RTP 3">
+    <title lang="pt">Jornal das 12</title>
+    <desc lang="pt">Jornal do dia, notícias do país e do mundo e também do desporto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659978/M" />
+  </programme>
+  <programme start="20181110125000 +0000" stop="20181110130000 +0000" channel="RTP 3">
+    <title lang="pt">TecNet</title>
+    <desc lang="pt">TecNet é um magazine semanal sobre tecnologia, novos equipamentos e ideias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659994/M" />
+  </programme>
+  <programme start="20181110130000 +0000" stop="20181110141000 +0000" channel="RTP 3">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674649/M" />
+  </programme>
+  <programme start="20181110141000 +0000" stop="20181110142500 +0000" channel="RTP 3">
+    <title lang="pt">3 às 14</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674650/M" />
+  </programme>
+  <programme start="20181110142500 +0000" stop="20181110150000 +0000" channel="RTP 3">
+    <title lang="pt">Olhar O Mundo</title>
+    <desc lang="pt">Um programa sobre a atualidade internacional onde os principais assuntos da semana serão abordados num ângulo, em regra, diferente da informação diária, que implica uma lógica mais sintética das notícias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674651/M" />
+  </programme>
+  <programme start="20181110150000 +0000" stop="20181110151000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 15</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674652/M" />
+  </programme>
+  <programme start="20181110151000 +0000" stop="20181110160000 +0000" channel="RTP 3">
+    <title lang="pt">O Último Apaga a Luz</title>
+    <desc lang="pt">Quase a iniciar o fim de semana, Raquel Varela (historiadora), Joaquim Vieira (jornalista), Rodrigo Moita de Deus (cronista), Virgílio Castelo (ator/autor) e Pedro Vieira (humorista e escritor) analisam, a partir das suas experiências profissionais, a forma como as notícias têm sido tratadas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11671143/M" />
+  </programme>
+  <programme start="20181110160000 +0000" stop="20181110163000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 16</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674653/M" />
+  </programme>
+  <programme start="20181110163000 +0000" stop="20181110170000 +0000" channel="RTP 3">
+    <title lang="pt">Janela Indiscreta</title>
+    <desc lang="pt">Janela Indiscreta é um programa sobre cinema que dá a conhecer as estreias, histórias de bastidores e entrevistas com os protagonistas das produções internacionais, muitas delas em exclusivo. Com apresentação de Mário Augusto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659975/M" />
+  </programme>
+  <programme start="20181110170000 +0000" stop="20181110174200 +0000" channel="RTP 3">
+    <title lang="pt">3 às 17</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674654/M" />
+  </programme>
+  <programme start="20181110174200 +0000" stop="20181110180000 +0000" channel="RTP 3">
+    <title lang="pt">Volta ao Mundo</title>
+    <desc lang="pt">Um programa de viagens em parceria com a Revista Volta ao Mundo. O escritor e cronista de viagens Luís Peixoto é o principal cicerone destes passeios à volta do mundo, que faz com tempo e conhecimento local, mostrando o que há de melhor para ver, passear, comer e conhecer. Gentes, cultura, gastronomia, paisagens de sonho e história(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659981/M" />
+  </programme>
+  <programme start="20181110180000 +0000" stop="20181110181000 +0000" channel="RTP 3">
+    <title lang="pt">3 às 18</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659991/M" />
+  </programme>
+  <programme start="20181110181000 +0000" stop="20181110190000 +0000" channel="RTP 3">
+    <title lang="pt">Parlamento</title>
+    <desc lang="pt">Os grandes debates Governo/Oposição. As principais propostas dos partidos políticos. As ideias dos deputados para o país. Todas as semanas os assuntos que interessam aos portugueses são discutidos no Parlamento. Notícias, reportagem e debate...no Parlamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674655/M" />
+  </programme>
+  <programme start="20181110190000 +0000" stop="20181110194500 +0000" channel="RTP 3">
+    <title lang="pt">3 às 19</title>
+    <desc lang="pt">Noticiário(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674656/M" />
+  </programme>
+  <programme start="20181110194500 +0000" stop="20181110200000 +0000" channel="RTP 3">
+    <title lang="pt">Futsal</title>
+    <desc lang="pt">A modalidade de Futsal começou a ser praticada desde 1940, no Brasil (São Paulo) e tem vindo a cativar cada vez mais adeptos. Hoje, seguramente o Futsal tem grande relevância e a RTP dá destaque a esta modalidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674657/M" />
+  </programme>
+  <programme start="20181110200000 +0000" stop="20181110203000 +0000" channel="RTP 3">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674658/M" />
+  </programme>
+  <programme start="20181110203000 +0000" stop="20181110224500 +0000" channel="RTP 3">
+    <title lang="pt">360º</title>
+    <desc lang="pt">Um novo programa de Informação, para analisar, contar ao detalhe e acrescentar novos dados sobre o assunto do dia. Olhar a notícia sobre todos os ângulos '360º', com Ana Lourenço(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674659/M" />
+  </programme>
+  <programme start="20181110224500 +0000" stop="20181110234000 +0000" channel="RTP 3">
+    <title lang="pt">Documentário: Na Lista Negra Do Putin</title>
+    <desc lang="pt">Qualquer opositor a Putin é rotulado como espião americano, um agente estrangeiro controlado por agências estrangeiras com o objectivo de destruir a Rússia. É assim que Putin é capaz de controlar a população, criando inimigos para os russos odiarem(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674660/M" />
+  </programme>
+  <programme start="20181110234000 +0000" stop="20181111000000 +0000" channel="RTP 3">
+    <title lang="pt">Documentário: De Lisboa A Helsínquia</title>
+    <desc lang="pt">Uma viagem por várias regiões da Europa. De norte a sul e de leste a oeste, o programa semanal de informação 'De Lisboa a Helsínquia' vai percorrer 56 regiões dos 28 Estados membros da União Europeia. Será investigada a utilidade e relevância de projetos financiados por fundos europeus nas áreas do ambiente, da educação, da saúde, da cultura, da inovação e da imigração(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11674661/M" />
+  </programme>
+  <programme start="20181110023000 +0000" stop="20181110041600 +0000" channel="CMTV">
+    <title lang="pt">Fogo No Coração</title>
+    <desc lang="pt">Fogo No Coração(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661149/M" />
+  </programme>
+  <programme start="20181110041600 +0000" stop="20181110043600 +0000" channel="CMTV">
+    <title lang="pt">Revelação</title>
+    <desc lang="pt">A história gira em torno de Lucas (Sérgio Abreu) e Victória (Tainá Müller), que se conhecem durante o curso de comunicação em Lisboa e se apaixonam perdidamente. Eles ficam noivos e prometem amor eterno um ao outro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661150/M" />
+    <episode-num system="onscreen">E309</episode-num>
+  </programme>
+  <programme start="20181110043600 +0000" stop="20181110044800 +0000" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <desc lang="pt">Magazine automóvel semanal apresentado por Rui Faria. As novidades do mercado, os testes, comparativos, destaques, a segurança rodoviária e o desporto automóvel num só programa de televisão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11499605/M" />
+    <episode-num system="onscreen">S7 E23</episode-num>
+  </programme>
+  <programme start="20181110044800 +0000" stop="20181110050000 +0000" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <desc lang="pt">Magazine de novas tecnologias, tendências, comportamentos e inovação que marca a sociedade portuguesa conduzido por Reginaldo Rodrigues de Almeida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11499606/M" />
+    <episode-num system="onscreen">S7 E29</episode-num>
+  </programme>
+  <programme start="20181110050000 +0000" stop="20181110060000 +0000" channel="CMTV">
+    <title lang="pt">Rua Segura</title>
+    <desc lang="pt">Sara Carrilho e seus convidados analisam temáticas de segurança, prevenção de crime, com relevo para a reportagem jornalística e de investigação, de reporte de ocorrências com acompanhamento da atualidade relevante(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6076500/M" />
+    <episode-num system="onscreen">E225</episode-num>
+  </programme>
+  <programme start="20181110060000 +0000" stop="20181110065700 +0000" channel="CMTV">
+    <title lang="pt">Flash Vidas Best Of</title>
+    <desc lang="pt">Noticiário de atualidade social, com a marca da revista Flash e da secção Vidas do Correio da Manhã. Tudo o que é notícia no mundo cor-de-rosa está no Flash Vidas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/6303708/M" />
+    <episode-num system="onscreen">E45</episode-num>
+  </programme>
+  <programme start="20181110065700 +0000" stop="20181110100500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661151/M" />
+  </programme>
+  <programme start="20181110100500 +0000" stop="20181110102000 +0000" channel="CMTV">
+    <title lang="pt">Hora De Estimação</title>
+    <desc lang="pt">Magazine dedicado a todos os animais, com e sem patas, cada um deles companheiro e amigo de todos nós(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11635956/M" />
+    <episode-num system="onscreen">S7 E31</episode-num>
+  </programme>
+  <programme start="20181110102000 +0000" stop="20181110104000 +0000" channel="CMTV">
+    <title lang="pt">SOS Donos Em Apuros</title>
+    <desc lang="pt">Este programa segue casos reais de cães com particularidades comportamentais que os donos gostariam de resolver. Pedro Paiva é o homem que promete ajudar nas situações mais difíceis, revelando todos os passos da transformação da relação de cada cão com o seu dono. Apresentado por Ana Pedro Arriscado(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661152/M" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+  </programme>
+  <programme start="20181110104000 +0000" stop="20181110105700 +0000" channel="CMTV">
+    <title lang="pt">Mundo Louco Bichos</title>
+    <desc lang="pt">Marta Viveiros apresenta situações insólitas, caricatas ou até mesmo extraordinárias(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11595843/M" />
+    <episode-num system="onscreen">S5 E58</episode-num>
+  </programme>
+  <programme start="20181110105700 +0000" stop="20181110111000 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661154/M" />
+  </programme>
+  <programme start="20181110111000 +0000" stop="20181110112900 +0000" channel="CMTV">
+    <title lang="pt">Prato Da Casa</title>
+    <desc lang="pt">Edgardo Pacheco desafia chefs portugueses a criar pratos práticos, diferentes e sempre deliciosos. Todas as semanas há novas receitas que nos fazem desejar que a televisão tivesse cheiro e sabor(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11613132/M" />
+    <episode-num system="onscreen">S7 E29</episode-num>
+  </programme>
+  <programme start="20181110112900 +0000" stop="20181110114000 +0000" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <desc lang="pt">Magazine automóvel semanal apresentado por Rui Faria. As novidades do mercado, os testes, comparativos, destaques, a segurança rodoviária e o desporto automóvel num só programa de televisão(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11635959/M" />
+    <episode-num system="onscreen">S7 E28</episode-num>
+  </programme>
+  <programme start="20181110114000 +0000" stop="20181110115700 +0000" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <desc lang="pt">Magazine de novas tecnologias, tendências, comportamentos e inovação que marca a sociedade portuguesa conduzido por Reginaldo Rodrigues de Almeida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661157/M" />
+    <episode-num system="onscreen">S7 E33</episode-num>
+  </programme>
+  <programme start="20181110115700 +0000" stop="20181110125500 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661160/M" />
+  </programme>
+  <programme start="20181110125500 +0000" stop="20181110142900 +0000" channel="CMTV">
+    <title lang="pt">CM Jornal Hora Do Almoço</title>
+    <desc lang="pt">Andreia Vale, de segunda a sexta, e João Ferreira, aos fins-de-semana, apresentam as principais notícias do dia. Jornalismo de proximidade, com a marca Correio da Manhã, à hora de almoço(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661159/M" />
+  </programme>
+  <programme start="20181110142900 +0000" stop="20181110145700 +0000" channel="CMTV">
+    <title lang="pt">Separados Pela Vida</title>
+    <desc lang="pt">“Separados pela Vida” responde ao apelo dos leitores do CM e telespectadores da CMTV que pretendem reencontrar-se com entes queridos com quem perderam o contacto ao longo do tempo. É um programa de emoções e partilha, onde vamos unir quem a vida separou. Apresentado por Duarte Siopa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11270512/M" />
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20181110145700 +0000" stop="20181110155700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661160/M" />
+  </programme>
+  <programme start="20181110155700 +0000" stop="20181110165700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661160/M" />
+  </programme>
+  <programme start="20181110165700 +0000" stop="20181110175700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661160/M" />
+  </programme>
+  <programme start="20181110175700 +0000" stop="20181110185700 +0000" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <desc lang="pt">Síntese das principais notícias, em direto da redação do Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661160/M" />
+  </programme>
+  <programme start="20181110185700 +0000" stop="20181110194500 +0000" channel="CMTV">
+    <title lang="pt">Jornal Às 7</title>
+    <desc lang="pt">Todas as principais notícias do dia e o lançamento dos temas que marcam a atualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661161/M" />
+  </programme>
+  <programme start="20181110194500 +0000" stop="20181110202500 +0000" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <desc lang="pt">José Carlos Castro, de segunda a sexta, e João Ferreira, aos fins-de-semana, apresentam o grande noticiário de horário nobre, na antena da CMTV. Jornalismo nacional e de proximidade, com a marca do líder Correio da Manhã(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661162/M" />
+  </programme>
+  <programme start="20181110202500 +0000" stop="20181110221500 +0000" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <desc lang="pt">Este programa acompanha as Jornadas dos três grandes do Campeonato Português. Todos fins de semana, as incidências e as emoções dos jogos do Benfica, FC Porto e Sporting(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10471119/M" />
+    <episode-num system="onscreen">E149</episode-num>
+  </programme>
+  <programme start="20181110221500 +0000" stop="20181110235300 +0000" channel="CMTV">
+    <title lang="pt">Liga D´Ouro</title>
+    <desc lang="pt">As emoções do futebol jogam-se todos os dias. De terça a sexta feira todas as novidades dos grandes do futebol a caminho de mais uma jornada de golos, polémicas, alegrias e tristezas para Benfica, Sporting e Porto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10487744/M" />
+    <episode-num system="onscreen">E185</episode-num>
+  </programme>
+  <programme start="20181110235300 +0000" stop="20181111005300 +0000" channel="CMTV">
+    <title lang="pt">Especial CM</title>
+    <desc lang="pt">As histórias com mais impacto, a análise mais profunda, o debate mais crítico e a grande reportagem, têm aqui um espaço de eleição(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661163/M" />
+  </programme>
+  <programme start="20181110025600 +0000" stop="20181110034600 +0000" channel="SIC RADICAL">
+    <title lang="pt">Irritações</title>
+    <desc lang="pt">Um programa de debate, com opiniões, controvérsia, humor e ironia. José de Pina, Domingos Amaral e Carla Quevedo e Luís Pedro Nunes conversam em estúdio com a moderação e participação de Pedro Boucherie Mendes, sobre aquilo que os irrita de uma forma geral e em particular(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11657582/M" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+  </programme>
+  <programme start="20181110034600 +0000" stop="20181110040500 +0000" channel="SIC RADICAL">
+    <title lang="pt">That Awkward Game Show</title>
+    <desc lang="pt">That Awkward Game Show mostra-nos em uma hora os pais e os seus filhos adultos em competição para ganhar um grande prémio em dinheiro. Durante o jogo, aprendem algumas das verdades mais ridiculamente chocantes e alguns dos factos mais embaraçosos um do outro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11617746/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20181110040500 +0000" stop="20181110042500 +0000" channel="SIC RADICAL">
+    <title lang="pt">That Awkward Game Show</title>
+    <desc lang="pt">That Awkward Game Show mostra-nos em uma hora os pais e os seus filhos adultos em competição para ganhar um grande prémio em dinheiro. Durante o jogo, aprendem algumas das verdades mais ridiculamente chocantes e alguns dos factos mais embaraçosos um do outro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11617747/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20181110042500 +0000" stop="20181110044400 +0000" channel="SIC RADICAL">
+    <title lang="pt">Stand Up Sessions Bits</title>
+    <desc lang="pt">O 'StandUp Sessions' é um espectáculo da promotora Meio Termo que trouxe a Lisboa e ao Porto alguns dos melhores humoristas nacionais(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11239541/M" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20181110044400 +0000" stop="20181110053600 +0000" channel="SIC RADICAL">
+    <title lang="pt">Irritações</title>
+    <desc lang="pt">Um programa de debate, com opiniões, controvérsia, humor e ironia. José de Pina, Domingos Amaral e Carla Quevedo e Luís Pedro Nunes conversam em estúdio com a moderação e participação de Pedro Boucherie Mendes, sobre aquilo que os irrita de uma forma geral e em particular(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11657582/M" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+  </programme>
+  <programme start="20181110053600 +0000" stop="20181110054400 +0000" channel="SIC RADICAL">
+    <title lang="pt">M De Música</title>
+    <desc lang="pt">Desde 2010, este programa é presença assídua nos ecrãs da SIC Mulher, com a rúbrica M de Música. O M de Música é um programa semanal, com duração de cinco minutos, composto por entrevista e três rubricas rápidas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648713/M" />
+    <episode-num system="onscreen">S1 E86</episode-num>
+  </programme>
+  <programme start="20181110054400 +0000" stop="20181110060000 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Bola Maciça</title>
+    <desc lang="pt">Uma aposta no melhor que o humor nacional tem para oferecer. O conjunto de sketchs que promete fazer rir, chorar, baralhar, incomodar e deixar desconfortável qualquer um com falta de sentido de humor abstrato(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11501286/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20181110060000 +0000" stop="20181110061400 +0000" channel="SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
+    <desc lang="pt">Este programa tem 4 'S' como denominador comum: Surf, Skate, Sound e Snowboard(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11636444/M" />
+    <episode-num system="onscreen">S1 E448</episode-num>
+  </programme>
+  <programme start="20181110061400 +0000" stop="20181110071400 +0000" channel="SIC RADICAL">
+    <title lang="pt">CC All Stars</title>
+    <desc lang="pt">Programa de entretenimento com especial atenção para a comunicação e interatividade com os jovens, repleto de momentos de paródia, rubricas excitantes, passatempos e espaços dedicados à música(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648707/M" />
+    <episode-num system="onscreen">S16 E368</episode-num>
+  </programme>
+  <programme start="20181110071400 +0000" stop="20181110075400 +0000" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648697/M" />
+    <episode-num system="onscreen">S6 E23</episode-num>
+  </programme>
+  <programme start="20181110075400 +0000" stop="20181110083600 +0000" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648710/M" />
+    <episode-num system="onscreen">S6 E24</episode-num>
+  </programme>
+  <programme start="20181110083600 +0000" stop="20181110092000 +0000" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648722/M" />
+    <episode-num system="onscreen">S6 E25</episode-num>
+  </programme>
+  <programme start="20181110092000 +0000" stop="20181110100100 +0000" channel="SIC RADICAL">
+    <title lang="pt">Tonight Show With Jimmy Fallon</title>
+    <desc lang="pt">Talk show americano apresentado por Jimmy Fallon, a partir de Nova Iorque. O comediante, vencedor de um Emmy e de um Grammy, traz o seu estilo único ao programa, que já contou com grandes apresentadores como Johnny Carson e Jay Leno. Fallon mantém a tradição convidando celebridades e dando a conhecer talentos da música e da comédia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11652477/M" />
+    <episode-num system="onscreen">S6 E26</episode-num>
+  </programme>
+  <programme start="20181110100100 +0000" stop="20181110101400 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Bola Maciça</title>
+    <desc lang="pt">Uma aposta no melhor que o humor nacional tem para oferecer. O conjunto de sketchs que promete fazer rir, chorar, baralhar, incomodar e deixar desconfortável qualquer um com falta de sentido de humor abstrato(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11501286/M" />
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20181110101400 +0000" stop="20181110102400 +0000" channel="SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
+    <desc lang="pt">O cinema visto na primeira pessoa por Rui Pedro Tendinha. Um programa que seguirá o crítico e cine trend-setter pelos festivais, pelo seu quotidiano, que inclui galas, antestreias e eventualmente uma ida ao sofá da sua sala. Toda a sua vida cinéfila num formato captado por telemóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648704/M" />
+    <episode-num system="onscreen">S1 E265</episode-num>
+  </programme>
+  <programme start="20181110102400 +0000" stop="20181110103900 +0000" channel="SIC RADICAL">
+    <title lang="pt">Volante</title>
+    <desc lang="pt">Magazine semanal com novidades do mundo automóvel. Informação centrada nas novas tecnologias e modelos que permitem maior eficiência energética, bem como as novas propostas de mobilidade sustentável(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11652468/M" />
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20181110103900 +0000" stop="20181110112200 +0000" channel="SIC RADICAL">
+    <title lang="pt">Latenight Show with Stephen Colbert</title>
+    <desc lang="pt">The Late Show with Stephen Colbert é um talk show americano apresentado por Stephen Colbert, a partir do Teatro Ed Sullivan, em Nova Iorque. Colbert é já bem conhecido pelas rubricas no Daily Show de Jon Stewart e também pelo seu programa Colbert Report(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648696/M" />
+    <episode-num system="onscreen">S4 E36</episode-num>
+  </programme>
+  <programme start="20181110112200 +0000" stop="20181110120200 +0000" channel="SIC RADICAL">
+    <title lang="pt">Latenight Show with Stephen Colbert</title>
+    <desc lang="pt">The Late Show with Stephen Colbert é um talk show americano apresentado por Stephen Colbert, a partir do Teatro Ed Sullivan, em Nova Iorque. Colbert é já bem conhecido pelas rubricas no Daily Show de Jon Stewart e também pelo seu programa Colbert Report(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648709/M" />
+    <episode-num system="onscreen">S4 E37</episode-num>
+  </programme>
+  <programme start="20181110120200 +0000" stop="20181110124300 +0000" channel="SIC RADICAL">
+    <title lang="pt">Latenight Show with Stephen Colbert</title>
+    <desc lang="pt">The Late Show with Stephen Colbert é um talk show americano apresentado por Stephen Colbert, a partir do Teatro Ed Sullivan, em Nova Iorque. Colbert é já bem conhecido pelas rubricas no Daily Show de Jon Stewart e também pelo seu programa Colbert Report(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648721/M" />
+    <episode-num system="onscreen">S4 E38</episode-num>
+  </programme>
+  <programme start="20181110124300 +0000" stop="20181110132300 +0000" channel="SIC RADICAL">
+    <title lang="pt">Latenight Show with Stephen Colbert</title>
+    <desc lang="pt">The Late Show with Stephen Colbert é um talk show americano apresentado por Stephen Colbert, a partir do Teatro Ed Sullivan, em Nova Iorque. Colbert é já bem conhecido pelas rubricas no Daily Show de Jon Stewart e também pelo seu programa Colbert Report(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11652476/M" />
+    <episode-num system="onscreen">S4 E39</episode-num>
+  </programme>
+  <programme start="20181110132300 +0000" stop="20181110134000 +0000" channel="SIC RADICAL">
+    <title lang="pt">Go's-TV Report</title>
+    <desc lang="pt">Este programa tem 4 'S' como denominador comum: Surf, Skate, Sound e Snowboard(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659588/M" />
+    <episode-num system="onscreen">S1 E449</episode-num>
+  </programme>
+  <programme start="20181110134000 +0000" stop="20181110134900 +0000" channel="SIC RADICAL">
+    <title lang="pt">Cinetendinha</title>
+    <desc lang="pt">O cinema visto na primeira pessoa por Rui Pedro Tendinha. Um programa que seguirá o crítico e cine trend-setter pelos festivais, pelo seu quotidiano, que inclui galas, antestreias e eventualmente uma ida ao sofá da sua sala. Toda a sua vida cinéfila num formato captado por telemóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648704/M" />
+    <episode-num system="onscreen">S1 E265</episode-num>
+  </programme>
+  <programme start="20181110134900 +0000" stop="20181110141100 +0000" channel="SIC RADICAL">
+    <title lang="pt">The Carbonaro Effect</title>
+    <desc lang="pt">The Carbonaro Effect é uma série de comédia com estonteante sucesso nos EUA, Michael Carbonaro, mágico de profissão e brincalhão de coração, é o protagonista do programa e, em cada novo episódio, realiza truques engenhosos   contando sempre com a interação de membros do público que não desconfiam de nada, principalmente que estão a ser filmados por câmaras escondidas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648695/M" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20181110141100 +0000" stop="20181110145700 +0000" channel="SIC RADICAL">
+    <title lang="pt">Terra Nossa</title>
+    <desc lang="pt">Durante 48 horas César Mourão viaja até uma localidade para conhecer as tradições e curiosidades da terra, descobrir as principais figuras e ouvir as suas histórias. Tudo isto... sem rede e completamente improvisado(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11146011/M" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20181110145700 +0000" stop="20181110151600 +0000" channel="SIC RADICAL">
+    <title lang="pt">That Awkward Game Show</title>
+    <desc lang="pt">That Awkward Game Show mostra-nos em uma hora os pais e os seus filhos adultos em competição para ganhar um grande prémio em dinheiro. Durante o jogo, aprendem algumas das verdades mais ridiculamente chocantes e alguns dos factos mais embaraçosos um do outro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11617746/M" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20181110151600 +0000" stop="20181110153800 +0000" channel="SIC RADICAL">
+    <title lang="pt">That Awkward Game Show</title>
+    <desc lang="pt">That Awkward Game Show mostra-nos em uma hora os pais e os seus filhos adultos em competição para ganhar um grande prémio em dinheiro. Durante o jogo, aprendem algumas das verdades mais ridiculamente chocantes e alguns dos factos mais embaraçosos um do outro(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11617747/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20181110153800 +0000" stop="20181110162500 +0000" channel="SIC RADICAL">
+    <title lang="pt">Dragon's Den Canadá</title>
+    <desc lang="pt">Dragons' Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11617748/M" />
+    <episode-num system="onscreen">S11 E10</episode-num>
+  </programme>
+  <programme start="20181110162500 +0000" stop="20181110171300 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Ilha Com Bear Grylls</title>
+    <desc lang="pt">The Island With Bear Grylls é um reality show britânico em que Bear Grylls leva um grupo de homens e mulheres e deixa-os presos numa ilha tropical no Oceano Pacífico sem nada, apenas com as suas roupas e uma pequena quantidade de materiais de sobrevivência. A ideia do programa é ver se o homem ou a mulher britânica do século XXI pode voltar às origens de caçadores / colectores e sobreviver nas mais difíceis situações(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648699/M" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20181110171300 +0000" stop="20181110180100 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Ilha Com Bear Grylls</title>
+    <desc lang="pt">The Island With Bear Grylls é um reality show britânico em que Bear Grylls leva um grupo de homens e mulheres e deixa-os presos numa ilha tropical no Oceano Pacífico sem nada, apenas com as suas roupas e uma pequena quantidade de materiais de sobrevivência. A ideia do programa é ver se o homem ou a mulher britânica do século XXI pode voltar às origens de caçadores / colectores e sobreviver nas mais difíceis situações(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648712/M" />
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20181110180100 +0000" stop="20181110184900 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Ilha Com Bear Grylls</title>
+    <desc lang="pt">The Island With Bear Grylls é um reality show britânico em que Bear Grylls leva um grupo de homens e mulheres e deixa-os presos numa ilha tropical no Oceano Pacífico sem nada, apenas com as suas roupas e uma pequena quantidade de materiais de sobrevivência. A ideia do programa é ver se o homem ou a mulher britânica do século XXI pode voltar às origens de caçadores / colectores e sobreviver nas mais difíceis situações(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648724/M" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20181110184900 +0000" stop="20181110193500 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Ilha Com Bear Grylls</title>
+    <desc lang="pt">The Island With Bear Grylls é um reality show britânico em que Bear Grylls leva um grupo de homens e mulheres e deixa-os presos numa ilha tropical no Oceano Pacífico sem nada, apenas com as suas roupas e uma pequena quantidade de materiais de sobrevivência. A ideia do programa é ver se o homem ou a mulher britânica do século XXI pode voltar às origens de caçadores / colectores e sobreviver nas mais difíceis situações(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10370282/M" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20181110193500 +0000" stop="20181110195500 +0000" channel="SIC RADICAL">
+    <title lang="pt">Impractical Jokers</title>
+    <desc lang="pt">Impratical Jokers é um reality show americano, criado por quatro amigos de longa data. Baseado em brincadeiras feitas em vários lugares e filmado por uma câmara escondida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10892530/M" />
+    <episode-num system="onscreen">S8 E11</episode-num>
+  </programme>
+  <programme start="20181110195500 +0000" stop="20181110201900 +0000" channel="SIC RADICAL">
+    <title lang="pt">Impractical Jokers</title>
+    <desc lang="pt">Impratical Jokers é um reality show americano, criado por quatro amigos de longa data. Baseado em brincadeiras feitas em vários lugares e filmado por uma câmara escondida(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10896375/M" />
+    <episode-num system="onscreen">S8 E12</episode-num>
+  </programme>
+  <programme start="20181110201900 +0000" stop="20181110203000 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Bola Maciça</title>
+    <desc lang="pt">Uma aposta no melhor que o humor nacional tem para oferecer. O conjunto de sketchs que promete fazer rir, chorar, baralhar, incomodar e deixar desconfortável qualquer um com falta de sentido de humor abstrato(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11522892/M" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20181110203000 +0000" stop="20181110212100 +0000" channel="SIC RADICAL">
+    <title lang="pt">Irritações</title>
+    <desc lang="pt">Um programa de debate, com opiniões, controvérsia, humor e ironia. José de Pina, Domingos Amaral e Carla Quevedo e Luís Pedro Nunes conversam em estúdio com a moderação e participação de Pedro Boucherie Mendes, sobre aquilo que os irrita de uma forma geral e em particular(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11657582/M" />
+    <episode-num system="onscreen">S1 E193</episode-num>
+  </programme>
+  <programme start="20181110212100 +0000" stop="20181110220400 +0000" channel="SIC RADICAL">
+    <title lang="pt">Lago Dos Tubarões</title>
+    <desc lang="pt">Os empresários que se atrevem a entrar no 'Shark Tank' devem convencer os investidores, os tubarões, a financiarem as suas ideias de negócio. Mas os tubarões têm um objetivo também. Eles querem o retorno do seu investimento e uma quota-parte dos lucros, enquanto sócios da futura empresa(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11058095/M" />
+    <episode-num system="onscreen">S9 E17</episode-num>
+  </programme>
+  <programme start="20181110220400 +0000" stop="20181110224700 +0000" channel="SIC RADICAL">
+    <title lang="pt">Dragon's Den Canadá</title>
+    <desc lang="pt">Dragons' Den, um programa onde empresários e empreendedores apresentam as suas ideias de negócio a um painel de 5 investidores de forma a conseguirem financiamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11659589/M" />
+    <episode-num system="onscreen">S11 E13</episode-num>
+  </programme>
+  <programme start="20181110224700 +0000" stop="20181110235800 +0000" channel="SIC RADICAL">
+    <title lang="pt">A Embaixada</title>
+    <desc lang="pt">A Embaixada é um thriller fascinante que navega por zonas de ambição pessoal, poder a qualquer preço, intriga, traição, paixão ilimitada, luxúria e amor. Localizado na Tailândia, 'La Embajada' apresenta Luis Salinas como um dos seus protagonistas, o novo embaixador da Espanha nesta terra asiática(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11641640/M" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20181110235800 +0000" stop="20181111004500 +0000" channel="SIC RADICAL">
+    <title lang="pt">O Negócio</title>
+    <desc lang="pt">O marketing é a alma de qualquer negócio. Quando Karin descobre que a sua carreira está numa encruzilhada, une forças com Luna e Magali para fazerem grandes mudanças na sua profissão: a prostituição. 'O Negócio' é uma aposta da SIC Radical na ficção de qualidade(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10917680/M" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20181110021700 +0000" stop="20181110030000 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10681274/M" />
+    <episode-num system="onscreen">S6 E18</episode-num>
+  </programme>
+  <programme start="20181110030000 +0000" stop="20181110034500 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10681285/M" />
+    <episode-num system="onscreen">S6 E19</episode-num>
+  </programme>
+  <programme start="20181110034500 +0000" stop="20181110035400 +0000" channel="SIC MULHER">
+    <title lang="pt">Cinetendinha</title>
+    <desc lang="pt">O cinema visto na primeira pessoa por Rui Pedro Tendinha. Um programa que seguirá o crítico e cine trend-setter pelos festivais, pelo seu quotidiano, que inclui galas, antestreias e eventualmente uma ida ao sofá da sua sala. Toda a sua vida cinéfila num formato captado por telemóvel(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661069/M" />
+    <episode-num system="onscreen">S1 E265</episode-num>
+  </programme>
+  <programme start="20181110035400 +0000" stop="20181110043700 +0000" channel="SIC MULHER">
+    <title lang="pt">Nashville</title>
+    <desc lang="pt">A cantora Rayna Jaymes vê a sua carreira a desmoronar, enquanto a novata Juliette Barnes brilha nos holofotes. Para piorar, ela enfrenta uma crise no casamento com Teddy Conrad. Vai precisar de  lidar com a constante presença de um antigo amor, Deacon Claybourne que é também o guitarrista da sua banda(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11655801/M" />
+    <episode-num system="onscreen">S1 E93</episode-num>
+  </programme>
+  <programme start="20181110043700 +0000" stop="20181110053500 +0000" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <desc lang="pt">Conversas descontraídas, esclarecedoras e acima de tudo que sejam um reflexo dos nossos dias. Da culinária, à moda, passando pela música, saúde, comportamento, tecnologias, cultura, caras conhecidas e testemunhos de viva voz, tudo 'Faz Sentido' nas tardes da SIC Mulher(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11655799/M" />
+    <episode-num system="onscreen">S3 E42</episode-num>
+  </programme>
+  <programme start="20181110053500 +0000" stop="20181110063400 +0000" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <desc lang="pt">Conversas descontraídas, esclarecedoras e acima de tudo que sejam um reflexo dos nossos dias. Da culinária, à moda, passando pela música, saúde, comportamento, tecnologias, cultura, caras conhecidas e testemunhos de viva voz, tudo 'Faz Sentido' nas tardes da SIC Mulher(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648299/M" />
+    <episode-num system="onscreen">S3 E39</episode-num>
+  </programme>
+  <programme start="20181110063400 +0000" stop="20181110064400 +0000" channel="SIC MULHER">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <desc lang="pt">Um programa que se apoia na seleção do guia para ir mais além e dar a conhecer uma região, nas suas mais diversas características, da gastronomia, à paisagem, das atividades e experiências ao alojamento(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661071/M" />
+    <episode-num system="onscreen">S8 E8</episode-num>
+  </programme>
+  <programme start="20181110064400 +0000" stop="20181110072900 +0000" channel="SIC MULHER">
+    <title lang="pt">Nashville</title>
+    <desc lang="pt">A cantora Rayna Jaymes vê a sua carreira a desmoronar, enquanto a novata Juliette Barnes brilha nos holofotes. Para piorar, ela enfrenta uma crise no casamento com Teddy Conrad. Vai precisar de  lidar com a constante presença de um antigo amor, Deacon Claybourne que é também o guitarrista da sua banda(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648293/M" />
+    <episode-num system="onscreen">S1 E89</episode-num>
+  </programme>
+  <programme start="20181110072900 +0000" stop="20181110081000 +0000" channel="SIC MULHER">
+    <title lang="pt">Nashville</title>
+    <desc lang="pt">A cantora Rayna Jaymes vê a sua carreira a desmoronar, enquanto a novata Juliette Barnes brilha nos holofotes. Para piorar, ela enfrenta uma crise no casamento com Teddy Conrad. Vai precisar de  lidar com a constante presença de um antigo amor, Deacon Claybourne que é também o guitarrista da sua banda(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648301/M" />
+    <episode-num system="onscreen">S1 E90</episode-num>
+  </programme>
+  <programme start="20181110081000 +0000" stop="20181110091300 +0000" channel="SIC MULHER">
+    <title lang="pt">Great British Bake Off</title>
+    <desc lang="pt">Na quarta série de The Great British Bake Off, Mel Giedroyc e Sue Perkins apresentam novamente o show, Mary Berry e Paul Hollywood voltam como juízes. A competição foi realizada no Harptree Court em East Harptree, Somerset(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10720738/M" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  <programme start="20181110091300 +0000" stop="20181110095500 +0000" channel="SIC MULHER">
+    <title lang="pt">Bondi Vet</title>
+    <desc lang="pt">Cães, gatos, crustáceos e até canários fazem parte do dia-a-dia do médico veterinário Chris Brown. Salvar vidas de animais é definitivamente o mote para Bondi Vet, em cada episódio apresenta interessantes histórias sobre animais e a relação com os respetivos donos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11629690/M" />
+    <episode-num system="onscreen">S6 E16</episode-num>
+  </programme>
+  <programme start="20181110095500 +0000" stop="20181110104100 +0000" channel="SIC MULHER">
+    <title lang="pt">Bondi Vet</title>
+    <desc lang="pt">Cães, gatos, crustáceos e até canários fazem parte do dia-a-dia do médico veterinário Chris Brown. Salvar vidas de animais é definitivamente o mote para Bondi Vet, em cada episódio apresenta interessantes histórias sobre animais e a relação com os respetivos donos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11632644/M" />
+    <episode-num system="onscreen">S6 E17</episode-num>
+  </programme>
+  <programme start="20181110104100 +0000" stop="20181110113000 +0000" channel="SIC MULHER">
+    <title lang="pt">Fixer Upper</title>
+    <desc lang="pt">A missão do casal Chip e Joanna Gaines é transformar casas decadentes, mas com grande potencial, em casas dos sonhos, revitalizando bairros inteiros na região central do Texas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648294/M" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20181110113000 +0000" stop="20181110121700 +0000" channel="SIC MULHER">
+    <title lang="pt">Fixer Upper</title>
+    <desc lang="pt">A missão do casal Chip e Joanna Gaines é transformar casas decadentes, mas com grande potencial, em casas dos sonhos, revitalizando bairros inteiros na região central do Texas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648302/M" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20181110121700 +0000" stop="20181110125000 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648288/M" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20181110125000 +0000" stop="20181110132800 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648289/M" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20181110132800 +0000" stop="20181110141800 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10681274/M" />
+    <episode-num system="onscreen">S6 E18</episode-num>
+  </programme>
+  <programme start="20181110141800 +0000" stop="20181110150000 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10681285/M" />
+    <episode-num system="onscreen">S6 E19</episode-num>
+  </programme>
+  <programme start="20181110150000 +0000" stop="20181110160000 +0000" channel="SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
+    <desc lang="pt">Um programa de venda de joias, apresentado em direto por Catarina Morazzo(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661072/M" />
+  </programme>
+  <programme start="20181110160000 +0000" stop="20181110164600 +0000" channel="SIC MULHER">
+    <title lang="pt">America's Got Talent</title>
+    <desc lang="pt">Na temporada doze da série America's Got Talent, Howie Mandel, Mel B, Heidi Klum e Simon Cowell retornaram ao programa, bem como a supermodelo e empresária Tyra Banks que que substituiu Nick Cannon(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10515972/M" />
+    <episode-num system="onscreen">S12 E33</episode-num>
+  </programme>
+  <programme start="20181110164600 +0000" stop="20181110173100 +0000" channel="SIC MULHER">
+    <title lang="pt">America's Got Talent</title>
+    <desc lang="pt">Na temporada doze da série America's Got Talent, Howie Mandel, Mel B, Heidi Klum e Simon Cowell retornaram ao programa, bem como a supermodelo e empresária Tyra Banks que que substituiu Nick Cannon(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10515980/M" />
+    <episode-num system="onscreen">S12 E34</episode-num>
+  </programme>
+  <programme start="20181110173100 +0000" stop="20181110181700 +0000" channel="SIC MULHER">
+    <title lang="pt">Fixer Upper</title>
+    <desc lang="pt">A missão do casal Chip e Joanna Gaines é transformar casas decadentes, mas com grande potencial, em casas dos sonhos, revitalizando bairros inteiros na região central do Texas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648309/M" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20181110181700 +0000" stop="20181110185000 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648289/M" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20181110185000 +0000" stop="20181110191700 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648290/M" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20181110191700 +0000" stop="20181110194700 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648295/M" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20181110194700 +0000" stop="20181110201600 +0000" channel="SIC MULHER">
+    <title lang="pt">Mundo De Sofia</title>
+    <desc lang="pt">Programa de Arts &amp; Crafts, apresentado por Sofia Cotrim, que ensina diferentes técnicas decorativas, dá ideias de presentes originais feitos em casa, sugere receitas de cozinha e truques de poupança doméstica, recicla móveis, transforma roupa, enfim… ajuda os espectadores a tirar o melhor partido do que têm à mão, com imaginação e bom gosto(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11661073/M" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20181110201600 +0000" stop="20181110211100 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10684587/M" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+  </programme>
+  <programme start="20181110211100 +0000" stop="20181110220000 +0000" channel="SIC MULHER">
+    <title lang="pt">My Dream Home</title>
+    <desc lang="pt">Os gémeos Drew e Jonathan continuam determinados em ajudar casais a encontrarem, comprarem e transformarem as suas novas casas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10687404/M" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+  </programme>
+  <programme start="20181110220000 +0000" stop="20181110224900 +0000" channel="SIC MULHER">
+    <title lang="pt">Masterchef Austrália</title>
+    <desc lang="pt">O sucesso continua com a nova temporada da maior competição culinária do mundo! Desafios, talento, muitas surpresas e os jurados do costume que dispensam apresentação. Esta edição conta com a participação muito especial de Nigella Lawson(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648296/M" />
+    <episode-num system="onscreen">S10 E31</episode-num>
+  </programme>
+  <programme start="20181110224900 +0000" stop="20181110233700 +0000" channel="SIC MULHER">
+    <title lang="pt">Masterchef Austrália</title>
+    <desc lang="pt">O sucesso continua com a nova temporada da maior competição culinária do mundo! Desafios, talento, muitas surpresas e os jurados do costume que dispensam apresentação. Esta edição conta com a participação muito especial de Nigella Lawson(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648304/M" />
+    <episode-num system="onscreen">S10 E32</episode-num>
+  </programme>
+  <programme start="20181110233700 +0000" stop="20181111000700 +0000" channel="SIC MULHER">
+    <title lang="pt">Seven Year Switch Austrália</title>
+    <desc lang="pt">Quatro casais australianos com relacionamentos complicados testam suas vidas compartilhadas enquanto participam numa parceria experimental com um estranho por duas semanas(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11648303/M" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20181110011100 +0000" stop="20181110015200 +0000" channel="SIC CARAS">
+    <title lang="pt">Ellen</title>
+    <desc lang="pt">Com uma personalidade única e inconfundível, a apresentadora é a alma deste talk show e conta com as mais mediáticas estrelas do mundo artístico ou desportivo, e até mesmo políticos. Num ambiente descontraído, quando Ellen e as celebridades se juntam, tudo pode acontecer!(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">14.3.</episode-num>
+  </programme>
+  <programme start="20181110000600 +0000" stop="20181110013700 +0000" channel="TV GLOBO">
+    <title lang="pt">Estúdio I</title>
+    <desc lang="pt">Apresentado por Maria Beltrão, Estúdio I traz informação, inteligência e informalidade através de entrevistas, debates e da análise dos fatos, com comentaristas especializados e a participação diária de colunistas(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110013700 +0000" stop="20181110020500 +0000" channel="TV GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um telejornal desportivo que mostra todas as faces do desporto(n)</desc>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20181110020500 +0000" stop="20181110024700 +0000" channel="TV GLOBO">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Veja as principais notícias do Brasil e do Mundo no maior telejornal do país(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110024700 +0000" stop="20181110035300 +0000" channel="TV GLOBO">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Apresentado por Ana Maria Braga e na companhia do Louro José, Mais Você é um programa de variedades voltado principalmente para o público feminino. Aborda, em geral temas como moda, culinária, comportamento, medicina, saúde e trabalho(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.4801.</episode-num>
+  </programme>
+  <programme start="20181110035300 +0000" stop="20181110042600 +0000" channel="TV GLOBO">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Apresentado pelos jornalistas Mariana Ferrão, Fernando Rocha e Flávia Freire, Bem Estar é um programa que trata de saúde e qualidade de vida, mas sem impor modelos de beleza ou ditar regras de saúde(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.1979.</episode-num>
+  </programme>
+  <programme start="20181110042600 +0000" stop="20181110052700 +0000" channel="TV GLOBO">
+    <title lang="pt">Encontro Com Fátima Bernardes</title>
+    <desc lang="pt">O programa promete trazer uma mistura de prestação de serviço, comportamento e entretenimento. Formado por uma equipe mista de jornalismo e entretenimento, o show tem seu foco no bate-papo e procura trazer para dentro do estúdio o contato que a apresentadora sempre teve com o público na rua(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.1650.</episode-num>
+  </programme>
+  <programme start="20181110052700 +0000" stop="20181110061300 +0000" channel="TV GLOBO">
+    <title lang="pt">Conversa Com Bial</title>
+    <desc lang="pt">"Conversa com Bial" vai reunir assuntos que possam ser relevantes para o espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.322.</episode-num>
+  </programme>
+  <programme start="20181110061300 +0000" stop="20181110071400 +0000" channel="TV GLOBO">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Um olhar por trás dos bastidores da Globo mostrando novidades e curiosidades do mundo do entretenimento(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.7323.</episode-num>
+  </programme>
+  <programme start="20181110071400 +0000" stop="20181110075500 +0000" channel="TV GLOBO">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">Telejornal que traz as novidades da noite, o balanço e a análise dos principais fatos do dia. William Waack e Christiane Pelajo lideram a bancada do Jornal da Globo, por onde grandes nomes do telejornalismo já passaram desde sua estreia em 1979(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110075500 +0000" stop="20181110084500 +0000" channel="TV GLOBO">
+    <title lang="pt">Via Brasil</title>
+    <desc lang="pt">Via Brasil traz reportagens especiais que revelam a riqueza do povo brasileiro e mostram as incríveis paisagens desse país(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">0.1796.</episode-num>
+  </programme>
+  <programme start="20181110084500 +0000" stop="20181110103300 +0000" channel="TV GLOBO">
+    <title lang="pt">Como Será</title>
+    <desc lang="pt">"Como Será?" é um programa para compreender e discutir o porquê das coisas. Cidadania, educação, ecologia, trabalho e inovação, num espaço para apresentar e incluir pessoas, fazer perguntas e descobrir respostas(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">0.217.</episode-num>
+  </programme>
+  <programme start="20181110103300 +0000" stop="20181110132000 +0000" channel="TV GLOBO">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Programa que tem como tema central a vida dentro de casa, abordando assuntos ligados a moda, decoração, serviço, entretenimento, saúde e quotidiano. Entre e sinta-se em casa!(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.168.</episode-num>
+  </programme>
+  <programme start="20181110132000 +0000" stop="20181110140200 +0000" channel="TV GLOBO">
+    <title lang="pt">SóTocaTop</title>
+    <desc lang="pt">O programa que traz as músicas e os cantores que mais se destacam nas rádios e na internet(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20181110140200 +0000" stop="20181110162300 +0000" channel="TV GLOBO">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Música, gente bonita, famosa e muita diversão. Estes são alguns dos ingredientes do Caldeirão do Huck. Com o bom humor de sempre, Luciano Huck traz muita animação para o seu final de semana com os quadros Agora ou Nunca, Lata Velha, Lar Doce Lar, Soletrando e muitos outros(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.951.</episode-num>
+  </programme>
+  <programme start="20181110162300 +0000" stop="20181110170600 +0000" channel="TV GLOBO">
+    <title lang="pt">Seleção Globo Repórter</title>
+    <desc lang="pt">Comportamento, atualidades, saúde, natureza e muita aventura são alguns dos temas que fazem do Globo Repórter o programa de reportagens mais assistido e prestigiado na televisão brasileira. Sérgio Chapelin e Glória Maria comandam a atração e apresentam diversas realidades curiosas(n)</desc>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20181110170600 +0000" stop="20181110181700 +0000" channel="TV GLOBO">
+    <title lang="pt">PopStar</title>
+    <desc lang="pt">O novo reality musical da Globo vai trazer talentos da TV soltando a voz e brilhando de um jeito diferente. Tudo isso sob o comando de Fernanda Lima, com Tiago Abravanel apresentando os bastidores e um júri formado por profissionais e pelo principal interessado, você!(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20181110181700 +0000" stop="20181110190000 +0000" channel="TV GLOBO">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">Um telejornal desportivo que mostra todas as faces do desporto(n)</desc>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20181110190000 +0000" stop="20181110205800 +0000" channel="TV GLOBO">
+    <title lang="pt">Futebol</title>
+    <sub-title lang="pt">Ao Vivo. Ao Vivo</sub-title>
+    <desc lang="pt">Futebol em direto(n)</desc>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20181110205800 +0000" stop="20181110213600 +0000" channel="TV GLOBO">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">O Jornal Hoje, além de consolidar as notícias da manhã, aprofunda temas de interesse geral em reportagens e séries especiais sobre cultura, moda, comportamento, culinária e variedades(n)</desc>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20181110213600 +0000" stop="20181110220800 +0000" channel="TV GLOBO">
+    <title lang="pt">Zorra</title>
+    <desc lang="pt">"Zorra" traz muito humor nas noites de sábado, situações hilariantes e divertimento para toda a família(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.138.</episode-num>
+  </programme>
+  <programme start="20181110220800 +0000" stop="20181110233900 +0000" channel="TV GLOBO">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Apresentado por Serginho Groisman, os assuntos abordados no programa incluem música, dança, entrevistas, comentários e arte. A plateia do Altas Horas é formada totalmente por jovens e adolescentes que interagem com o apresentador e com as atrações(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.899.</episode-num>
+  </programme>
+  <programme start="20181110233900 +0000" stop="20181111020000 +0000" channel="TV GLOBO">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Música, gente bonita, famosa e muita diversão. Estes são alguns dos ingredientes do Caldeirão do Huck. Com o bom humor de sempre, Luciano Huck traz muita animação para o seu final de semana com os quadros Agora ou Nunca, Lata Velha, Lar Doce Lar, Soletrando e muitos outros(n)</desc>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">0.951.</episode-num>
+  </programme>
+</tv>
